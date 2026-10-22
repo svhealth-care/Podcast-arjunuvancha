@@ -1,0 +1,1873 @@
+{
+  "reviewed": "2026-10-20",
+  "scope": "Arjun’s supplied state guest shortlist, including Indian-Australian and broader Australian voices. Proposed conversations, not confirmed interviews. The separate current parliament directory retains 16 researched members checked19October2026.",
+  "people": [
+    {
+      "id": "kamlesh-bhatt",
+      "name": "Dr Kamlesh Bhatt",
+      "state": "WA",
+      "location": "Scarborough, Perth, Western Australia",
+      "role": "General practitioner, Scarborough Beach Medical Centre",
+      "bio": "Dr Kamlesh Bhatt is a Perth general practitioner at Scarborough Beach Medical Centre. His experience includes obstetrics and gynaecology and child health. He values the long-term family relationships of general practice and speaks English, Hindi and Gujarati.",
+      "group": "leader",
+      "priority": 0,
+      "image": "assets/people/kamlesh-bhatt.webp",
+      "sources": [
+        {
+          "url": "https://sbmc.com.au/team-member/dr-kamlesh-bhatt/",
+          "label": "Official public profile"
+        }
+      ],
+      "portraitSource": "https://sbmc.com.au/wp-content/uploads/2020/07/Dr-Kamlesh-Bhatt-420x420.jpg",
+      "credit": "Scarborough Beach Medical Centre",
+      "tags": [
+        "Perth",
+        "Medicine & healthcare"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 0
+    },
+    {
+      "id": "jyothi-tegginamath",
+      "name": "Dr Jyothi Tegginamath",
+      "state": "WA",
+      "location": "Perth, Western Australia",
+      "role": "WA Chapter President, Australia India Business Council; Managing Director, NIA Pharmaceuticals",
+      "bio": "Dr Jyothi Tegginamath leads the Australia India Business Council’s Western Australia chapter and is Managing Director of NIA Pharmaceuticals. Her work connects the Australian and Indian life sciences sectors through regulatory expertise, market entry and cross-border partnerships, alongside community health initiatives.",
+      "group": "leader",
+      "priority": 1,
+      "image": "assets/people/jyothi-tegginamath.webp",
+      "sources": [
+        {
+          "url": "https://aibc.org.au/dr-jyothi-tegginamath/",
+          "label": "Official public profile"
+        },
+        {
+          "url": "https://aibc.org.au/about-us/",
+          "label": "Official public profile"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/drjyothi-tegginamath_uwagraduation-lifelonglearning-activity-7222011941332926464-COAC",
+          "label": "Published background"
+        }
+      ],
+      "portraitSource": "https://aibc.org.au/wp-content/uploads/2024/10/Jyothi-768x768.jpg",
+      "credit": "Australia India Business Council",
+      "tags": [
+        "Perth",
+        "Business & community"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 1
+    },
+    {
+      "id": "nilesh-makwana",
+      "name": "Nilesh Makwana",
+      "state": "WA",
+      "location": "Perth, Western Australia",
+      "role": "Chair and Director, West Australian Indian Film Council; CEO, illuminance Solutions",
+      "bio": "Nilesh Makwana is a Perth entrepreneur, author and CEO of illuminance Solutions. He chairs the West Australian Indian Film Council and founded West Tech Assemblage. His public work centres on digital inclusion, diverse workplaces and cultural connections between Australia and India.",
+      "group": "leader",
+      "priority": 2,
+      "image": "assets/people/nilesh-makwana.webp",
+      "sources": [
+        {
+          "url": "https://waifc.org.au/about/our-people",
+          "label": "Official public profile"
+        },
+        {
+          "url": "https://visit.museum.wa.gov.au/conversations/2024-11/Nilesh-Makwana",
+          "label": "Official public profile"
+        },
+        {
+          "url": "https://www.icc-cricket.com/news/nilesh-makwana",
+          "label": "Official public profile"
+        },
+        {
+          "url": "https://www.nilesh.com/author-profile/",
+          "label": "Official public profile"
+        }
+      ],
+      "portraitSource": "https://cdn.prod.website-files.com/6a010b2db43935c00dc24eae/6a7d4e2c7c3963cfc1bdc30d_nilesh-makwana_converted.avif",
+      "credit": "West Australian Indian Film Council",
+      "tags": [
+        "Perth",
+        "Business & community"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 2
+    },
+    {
+      "id": "varun",
+      "name": "Varun Ghosh",
+      "state": "WA",
+      "location": "Western Australia · WA",
+      "role": "Senator for Western Australia",
+      "bio": "Varun Ghosh represents Western Australia in the Senate for Labor. Appointed in February 2024 and elected in 2025, the barrister previously worked in Perth, New York and at the World Bank. His parliamentary work includes environment, communications and public accountability. He publicly acknowledges Indian ancestry.",
+      "group": "parliament",
+      "priority": 3,
+      "image": "assets/people/varun-ghosh.webp",
+      "sources": [
+        {
+          "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=257613",
+          "label": "Parliament of Australia — current senator"
+        },
+        {
+          "url": "https://www.openaustralia.org.au/senate/?gid=2024-03-25.171.1",
+          "label": "First speech, 25 March 2024, Hansard transcript"
+        },
+        {
+          "url": "https://alp.org.au/our-people/our-people/varun-ghosh/",
+          "label": "Australian Labor Party — Varun Ghosh"
+        }
+      ],
+      "portraitSource": "https://www.alp.org.au/media/3675/varun-ghosh-headshot-2.jpg",
+      "credit": "Australian Labor Party",
+      "tags": [
+        "Western Australia",
+        "Australian Labor Party",
+        "Senate"
+      ],
+      "chamber": "Federal",
+      "office": "Senate",
+      "heritage": "Self-described Australian of Indian origin; Indian family ancestry",
+      "shortlisted": true,
+      "rosterOrder": 3
+    },
+    {
+      "id": "parwinder-kaur",
+      "name": "Dr Parwinder Kaur",
+      "state": "WA",
+      "location": "Western Australia · WA",
+      "role": "Member for Western Australia; Deputy Chair of Committees",
+      "bio": "Dr Parwinder Kaur joined Western Australia’s Legislative Council in May 2025 after a career in biotechnology and biodiversity genomics. Raised in Punjab, India, the Labor member represents the whole state. She serves as Deputy Chair of Committees and champions science, innovation and participation in STEM.",
+      "group": "parliament",
+      "priority": 4,
+      "image": "assets/people/parwinder-kaur.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/Member%2BLookup%2BLC%2BCurrent/Kaur%2C%2BHon%2BDr%2BParwinder",
+          "label": "Parliament of WA — current member"
+        },
+        {
+          "url": "https://www.canning.wa.gov.au/city-services/community-initiatives/canning-cultural-ambassadors/",
+          "label": "City of Canning — cultural ambassadors"
+        },
+        {
+          "url": "https://scienceandtechnologyaustralia.org.au/profile/dr-parwinder-kaur/",
+          "label": "Science and Technology Australia — profile"
+        }
+      ],
+      "portraitSource": "https://drparwinderkaur.com.au/media/i53feqnp/kaur-hs.png",
+      "credit": "Office of Hon Dr Parwinder Kaur MLC",
+      "tags": [
+        "Western Australia",
+        "Australian Labor Party",
+        "Legislative Council"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Council",
+      "heritage": "Indian-born; explicitly identifies as Punjabi (Indian)",
+      "shortlisted": true,
+      "rosterOrder": 4
+    },
+    {
+      "id": "ranjana-srivastava",
+      "name": "Dr Ranjana Srivastava OAM",
+      "state": "VIC",
+      "location": "Melbourne · VIC",
+      "role": "Oncologist, author and doctor–patient communication advocate",
+      "bio": "Melbourne oncologist and author Ranjana Srivastava specialises in caring for older people with cancer. Her books and public writing examine medicine, communication and humanity. Raised partly in India, she received an OAM for her contribution to doctor–patient communication and has twice been a Fulbright scholar.",
+      "group": "leader",
+      "priority": 0,
+      "image": "assets/people/ranjana-srivastava.webp",
+      "sources": [
+        {
+          "url": "https://ranjanasrivastava.com/about-me/",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://www.abc.net.au/listen/radionational/ranjana-srivastava/6698256",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/punjabi/en/article/ranjana-srivastava-fighting-cancer-by-not-just-treating-patients-but-also-empowering-them/czu4yjnf6",
+          "label": "Published heritage background"
+        }
+      ],
+      "portraitSource": "https://ranjanasrivastava.com/about-me/",
+      "credit": "Ranjana Srivastava official website",
+      "tags": [
+        "Medicine",
+        "Journalism & writing",
+        "Victoria"
+      ],
+      "heritage": "Her first-person SBS interview describes returning to India as a baby, growing up in Bihar and her Indian upbringing.",
+      "shortlisted": true,
+      "rosterOrder": 0
+    },
+    {
+      "id": "ghanshyam-bavadiya",
+      "name": "Ghanshyam Bavadiya",
+      "state": "VIC",
+      "location": "Melbourne, Victoria",
+      "role": "Founder and CEO, Platinum Developers",
+      "bio": "Ghanshyam Bavadiya is the founder and CEO of Platinum Developers, a Melbourne property development company established in 2013. The business works across land subdivision, townhouses and house-and-land projects, with developments in Melbourne’s eastern and western suburbs.",
+      "group": "leader",
+      "priority": 1,
+      "tags": [
+        "Melbourne",
+        "Business & property"
+      ],
+      "publicProfile": "https://au.linkedin.com/in/ghanshyam-bavadiya",
+      "socialUrls": [
+        "https://au.linkedin.com/in/ghanshyam-bavadiya",
+        "https://www.facebook.com/ghan.bavadiya/"
+      ],
+      "sources": [
+        {
+          "url": "https://au.linkedin.com/in/ghanshyam-bavadiya",
+          "label": "Public professional profile"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/ghanshyam-bavadiya_revolutionizing-real-estate-exclusive-interview-activity-7111850992131854336-XNrT",
+          "label": "First-person interview post"
+        },
+        {
+          "url": "https://platinumdevelopers.com.au/about-us/",
+          "label": "Official company history"
+        },
+        {
+          "url": "https://platinumdevelopers.com.au/",
+          "label": "Official company website"
+        }
+      ],
+      "portraitSource": "https://media.licdn.com/dms/image/v2/D5603AQHETKSpav63Wg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731722308534?e=2147483647&v=beta&t=gLUgYYucL-gK2mV1sLQo3p_ENQ_5oBFjgXa46ZyogRM",
+      "credit": "Ghanshyam Bavadiya / public LinkedIn profile",
+      "image": "assets/people/ghanshyam-bavadiya.webp",
+      "shortlisted": true,
+      "rosterOrder": 1
+    },
+    {
+      "id": "chris-crewther",
+      "name": "Chris Crewther",
+      "state": "VIC",
+      "location": "Mornington · VIC",
+      "role": "Member for Mornington",
+      "bio": "Chris Crewther represents Mornington for the Liberal Party in Victoria’s Legislative Assembly, elected in 2022 after federal service as Dunkley’s MP from 2016 to 2019. In a December 2025 parliamentary speech, he described his part Indian ancestry, tracing family origins to Goa, Daman and Diu.",
+      "group": "parliament",
+      "priority": 2,
+      "image": "assets/people/chris-crewther.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.vic.gov.au/members/chris-crewther/",
+          "label": "Parliament of Victoria — current member"
+        },
+        {
+          "url": "https://www.parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-33971",
+          "label": "Parliament of Victoria — Community leaders debate, 9 December 2025"
+        },
+        {
+          "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248969",
+          "label": "Parliament of Australia — former Dunkley member"
+        }
+      ],
+      "portraitSource": "https://www.parliament.vic.gov.au/4a5280/contentassets/c114641508364d7e8662c5863e00d983/member-photo/1776.jpg?width=800&height=600&rmode=max",
+      "credit": "Parliament of Victoria",
+      "tags": [
+        "Mornington",
+        "Liberal Party of Australia",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Self-described part Indian ancestry; family line from Goa, Daman and Diu during the gold rush era",
+      "shortlisted": true,
+      "rosterOrder": 2
+    },
+    {
+      "id": "malavika-kadwadkar",
+      "name": "Malavika Kadwadkar",
+      "state": "VIC",
+      "location": "Melbourne, Victoria",
+      "role": "Community Outreach Lead, Women’s Health in the South East (WHISE)",
+      "bio": "Malavika Kadwadkar is Community Outreach Lead at WHISE, working to improve women’s access to health services. Her work spans gender equality, community engagement and family violence prevention. She received Victoria’s individual Prevention of Family Violence Award in 2026.",
+      "group": "leader",
+      "priority": 3,
+      "tags": [
+        "Melbourne",
+        "Gender equality",
+        "Women’s health"
+      ],
+      "publicProfile": "https://whise.org.au/about-us/our-staff-and-board/",
+      "socialUrls": [
+        "https://au.linkedin.com/in/malavikakadwadkar"
+      ],
+      "sources": [
+        {
+          "url": "https://whise.org.au/about-us/our-staff-and-board/",
+          "label": "Official WHISE staff biography"
+        },
+        {
+          "url": "https://www.premier.vic.gov.au/awards-honour-victorian-multicultural-communities",
+          "label": "Victorian Government award announcement, 15 October 2026"
+        },
+        {
+          "url": "https://www.multiculturalcommission.vic.gov.au/victorian-multicultural-awards-for-excellence",
+          "label": "Official awards listing"
+        }
+      ],
+      "portraitSource": "https://whise.org.au/assets/images/pages/staff/malavika.png",
+      "credit": "Women’s Health in the South East (WHISE)",
+      "image": "assets/people/malavika-kadwadkar.webp",
+      "shortlisted": true,
+      "rosterOrder": 3
+    },
+    {
+      "id": "eden-foster",
+      "name": "Eden Foster",
+      "state": "VIC",
+      "location": "Mulgrave · VIC",
+      "role": "Member for Mulgrave",
+      "bio": "Eden Foster has represented Mulgrave for Labor since a November 2023 by-election. A psychologist and former Greater Dandenong mayor, she grew up locally with a mother who migrated from Kolkata. In Parliament, she identifies proudly with her Anglo-Indian heritage and advocates for inclusive community services.",
+      "group": "parliament",
+      "priority": 4,
+      "image": "assets/people/eden-foster.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.vic.gov.au/members/eden-foster/",
+          "label": "Parliament of Victoria — current member"
+        },
+        {
+          "url": "https://www.parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-24295",
+          "label": "Parliament of Victoria — inaugural speech, 7 February 2024"
+        },
+        {
+          "url": "https://www.edenfoster.com.au/about/",
+          "label": "Eden Foster — about"
+        }
+      ],
+      "portraitSource": "https://www.parliament.vic.gov.au/4a81f5/contentassets/566f64e8ccdc490baf735eb958a84ec1/member-photo/1814.jpg?width=800&height=600&rmode=max",
+      "credit": "Parliament of Victoria",
+      "tags": [
+        "Politics & government",
+        "Mental health",
+        "Victoria"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Self-described Indian heritage through her Anglo-Indian mother, who migrated from Kolkata",
+      "shortlisted": true,
+      "rosterOrder": 4
+    },
+    {
+      "id": "charishma-kaliyanda",
+      "name": "Charishma Kaliyanda",
+      "state": "NSW",
+      "location": "Liverpool · NSW",
+      "role": "Member for Liverpool; Parliamentary Secretary",
+      "bio": "Charishma Kaliyanda has represented Liverpool for Labor since 2023. Born in Bengaluru and raised in Sydney, she trained in occupational therapy and worked in youth mental health. The former Liverpool councillor serves as parliamentary secretary across customer service, digital government, emergency services and youth justice.",
+      "group": "parliament",
+      "priority": 0,
+      "image": "assets/people/charishma-kaliyanda.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.nsw.gov.au/members-and-electorates/members-and-ministers/members-details?memberId=2281",
+          "label": "Parliament of NSW — current member"
+        },
+        {
+          "url": "https://www.charishmakaliyanda.au/about/about-charishma/",
+          "label": "Charishma Kaliyanda — about"
+        },
+        {
+          "url": "https://www.indianlink.com.au/indian-links-2019-nsw-election/",
+          "label": "Indian Link — election interview"
+        },
+        {
+          "url": "https://www.nswlabor.org.au/charishma_kaliyanda",
+          "label": "NSW Labor — official profile and portrait"
+        }
+      ],
+      "portraitSource": "https://assets.nationbuilder.com/nswlabor/pages/9190/meta_images/original/CK_portrait.jpg?1767674432",
+      "credit": "NSW Labor",
+      "tags": [
+        "Youth mental health",
+        "Politics",
+        "New South Wales"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Indian-born Australian; born in Bengaluru (Bangalore), moved to Australia at age four",
+      "shortlisted": true,
+      "rosterOrder": 0
+    },
+    {
+      "id": "manjit-singh-lally",
+      "name": "Manjit Singh Lally",
+      "state": "NSW",
+      "location": "Griffith · NSW",
+      "role": "Griffith Business Chamber treasurer; former Griffith City councillor",
+      "bio": "Griffith businessman and Sikh community leader Manjit Singh Lally brings regional Riverina experience to the atlas. The Griffith Business Chamber lists him as its treasurer. He served on Griffith City Council before the September 2024 election and advocates for local businesses and community needs.",
+      "group": "leader",
+      "priority": 1,
+      "image": "assets/people/manjit-singh-lally.webp",
+      "sources": [
+        {
+          "url": "https://griffithbusinesschamber.com.au/contacts/",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://griffithbusinesschamber.com.au/whats-on/meet-the-candidates/",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://www.griffith.nsw.gov.au/files/assets/public/v/1/annual-report-2023-24-for-web.pdf",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://regionriverina.com.au/three-newcomers-and-five-incumbent-losses-as-election-result-transforms-griffith-council/73131/",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/punjabi/en/podcast-episode/migrant-communities-travel-up-to-200km-for-cremations-says-newly-elected-councillor-in-griffith/xdvsu6hd4",
+          "label": "Published heritage background"
+        }
+      ],
+      "portraitSource": "https://www.griffith.nsw.gov.au/files/assets/public/v/1/annual-report-2023-24-for-web.pdf",
+      "credit": "Griffith City Council, Annual Report 2023/24, PDF page18 (printed page17)",
+      "tags": [
+        "Griffith",
+        "Community and business"
+      ],
+      "heritage": "In a direct SBS Punjabi interview, Lally describes hailing from a village in Jallandhar district, Punjab.",
+      "shortlisted": true,
+      "rosterOrder": 1
+    },
+    {
+      "id": "dave-sharma",
+      "name": "Dave Sharma",
+      "state": "NSW",
+      "location": "New South Wales · NSW",
+      "role": "Senator for New South Wales",
+      "bio": "Dave Sharma is a Liberal Senator for New South Wales, appointed in November 2023 after representing Wentworth from 2019 to 2022. The former ambassador to Israel has experience in diplomacy, law and international affairs. He has described his paternal family’s Indian roots in Uttar Pradesh.",
+      "group": "parliament",
+      "priority": 2,
+      "image": "assets/people/dave-sharma.webp",
+      "sources": [
+        {
+          "url": "https://www.aph.gov.au/senators_and_members/parliamentarian?lang=en&mpid=274506",
+          "label": "Parliament of Australia — current senator"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/meet-australias-first-indian-origin-mp-dave-sharma/hs8dwjs38",
+          "label": "SBS Hindi — Dave Sharma interview"
+        },
+        {
+          "url": "https://your.nswliberal.org.au/dave-sharma",
+          "label": "Liberal Party NSW — Dave Sharma"
+        }
+      ],
+      "portraitSource": "https://your.nswliberal.org.au/getmedia/9e7232d0-0f4a-4120-a690-ada3356b9bca/Dave-Sharma-800x800.jpeg",
+      "credit": "Liberal Party of Australia, NSW Division",
+      "tags": [
+        "New South Wales",
+        "Liberal Party of Australia",
+        "Senate"
+      ],
+      "chamber": "Federal",
+      "office": "Senate",
+      "heritage": "Indian ancestry through his father; family roots in Uttar Pradesh via Trinidad and Tobago",
+      "shortlisted": true,
+      "rosterOrder": 2
+    },
+    {
+      "id": "daniel-mookhey",
+      "name": "Daniel Mookhey",
+      "state": "NSW",
+      "location": "New South Wales · NSW",
+      "role": "Treasurer; Member of the Legislative Council",
+      "bio": "Daniel Mookhey has served in the New South Wales Legislative Council since 2015 and is Treasurer. Born in Blacktown to Indian migrant parents, he worked in unions and consulting before entering Parliament. His portfolio centres on the state budget and the management of public finances.",
+      "group": "parliament",
+      "priority": 3,
+      "image": "assets/people/daniel-mookhey.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.nsw.gov.au/members-and-electorates/members-and-ministers/members-details?memberId=135",
+          "label": "Parliament of NSW — current member"
+        },
+        {
+          "url": "https://www.parliament.nsw.gov.au/member/files/135/Hon%20Daniel%20Mookhey%20-%20Inaugural%20speech.pdf",
+          "label": "Parliament of NSW — inaugural speech"
+        },
+        {
+          "url": "https://www.indianlink.com.au/the-making-of-daniel-mookhey/",
+          "label": "Indian Link — interview with Daniel Mookhey"
+        },
+        {
+          "url": "https://www.nswlabor.org.au/daniel_mookhey",
+          "label": "NSW Labor — official profile and portrait"
+        }
+      ],
+      "portraitSource": "https://assets.nationbuilder.com/nswlabor/pages/9312/meta_images/original/vgjbh.jpg?1722907679",
+      "credit": "NSW Labor",
+      "tags": [
+        "New South Wales",
+        "Australian Labor Party",
+        "Legislative Council"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Council",
+      "heritage": "Indian ancestry; Australian-born son of migrants from India; not labelled Indo-Fijian",
+      "shortlisted": true,
+      "rosterOrder": 3
+    },
+    {
+      "id": "noshir-irani",
+      "name": "Noshir Irani OAM",
+      "state": "NSW",
+      "location": "Sydney, New South Wales",
+      "role": "Community volunteer and Justice of the Peace",
+      "bio": "Noshir Irani OAM is a Sydney community volunteer whose service includes Meals on Wheels deliveries, work as a Justice of the Peace, and leadership in Zoroastrian and cultural organisations. He received the Medal of the Order of Australia in 2026.",
+      "group": "leader",
+      "priority": 4,
+      "tags": [
+        "Sydney",
+        "Volunteering",
+        "Community & aged care"
+      ],
+      "publicProfile": "https://www.indianlink.com.au/noshir-irani-oam-kings-birthday-honours-2026/",
+      "socialUrls": [],
+      "sources": [
+        {
+          "url": "https://www.gg.gov.au/sites/default/files/2026-06/KB26%20-%20Honours%20List%20Media%20Notes%20-%20Order%20of%20Australia%20-%20OAM%20Medal.pdf",
+          "label": "Official Governor-General honours biography, 8 June 2026"
+        },
+        {
+          "url": "https://www.gg.gov.au/sites/default/files/2026-06/KB26%20-%20Honours%20List%20-%20Order%20of%20Australia.pdf",
+          "label": "Official 2026 King’s Birthday Honours list"
+        },
+        {
+          "url": "https://www.indianlink.com.au/noshir-irani-oam-kings-birthday-honours-2026/",
+          "label": "Indian Link interview and supplied portrait, June 2026"
+        }
+      ],
+      "portraitSource": "https://p9dzm74w.tinifycdn.com/wp-content/uploads/2026/06/Noshir-Irani-.png",
+      "credit": "Supplied / Indian Link",
+      "image": "assets/people/noshir-irani.webp",
+      "shortlisted": true,
+      "rosterOrder": 4
+    },
+    {
+      "id": "usha-kiran-chandra",
+      "name": "Usha Kiran Chandra OAM",
+      "state": "QLD",
+      "city": "Brisbane",
+      "location": "Brisbane, Queensland",
+      "role": "Community leader; Director and Licensee, Globenet Realty",
+      "bio": "Brisbane community leader Usha Kiran Chandra combines real estate work with decades of multicultural service. A founding member of GOPIO Queensland, she has supported festivals, community media and local organisations. She received an OAM in 2026 for service to Queensland’s Indian community.",
+      "group": "leader",
+      "guestStatus": "proposed",
+      "sources": [
+        {
+          "url": "https://www.gg.gov.au/sites/default/files/2026-06/KB26%20-%20Honours%20List%20Media%20Notes%20-%20Order%20of%20Australia%20-%20OAM%20Medal.pdf",
+          "label": "Official 2026 OAM citation"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/only-woman-of-colour-among-nine-white-men-kings-birthday-honours-recipient-credits-australian-mentors/9d9t0lb46",
+          "label": "SBS interview, June 2026"
+        },
+        {
+          "url": "https://www.govhouse.qld.gov.au/the-governor-of-queensland/governors-program/16-september-2026",
+          "label": "Official investiture programme"
+        }
+      ],
+      "credit": "Usha Kiran Chandra, supplied to SBS Hindi",
+      "tags": [
+        "Brisbane",
+        "Community & culture"
+      ],
+      "portraitSource": "https://sbs-au-brightspot.s3.ap-southeast-2.amazonaws.com/e5/25/02c4b7164bbaabf68bfc93c04add/usha-desk.jpg",
+      "image": "assets/people/usha-kiran-chandra.webp",
+      "shortlisted": true,
+      "priority": 0,
+      "rosterOrder": 0
+    },
+    {
+      "id": "tausif-khan",
+      "name": "Tausif Khan OAM",
+      "state": "QLD",
+      "city": "Brisbane",
+      "location": "Brisbane, Queensland",
+      "role": "Community leader; former President, India Australia Society of Queensland",
+      "bio": "Brisbane’s Tausif Khan has spent four decades building Indian community networks and cultural connections. A former president of the India Australia Society of Queensland, he helped organise festivals, broadcasting and trade initiatives. He received an OAM in 2026 for service to Brisbane’s Indian community.",
+      "group": "leader",
+      "guestStatus": "proposed",
+      "sources": [
+        {
+          "url": "https://www.gg.gov.au/sites/default/files/2026-01/AD26%20-%20Honours%20List%20Media%20Notes%20-%20Order%20of%20Australia%20-%20OAM%20Medal.pdf",
+          "label": "Official 2026 OAM citation"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/brisbanes-tausif-khan-receives-oam-for-40-years-of-indian-community-leadership/bxxhqof3x",
+          "label": "SBS interview, January 2026"
+        },
+        {
+          "url": "https://www.indianlink.com.au/australia-day-honours-2026-tausif-khan-oam/",
+          "label": "Direct interview and named portrait"
+        }
+      ],
+      "credit": "Indian Link, portrait published with Tausif Khan’s 2026 honours interview; photographer not specified",
+      "tags": [
+        "Brisbane",
+        "Community & culture"
+      ],
+      "portraitSource": "https://p9dzm74w.tinifycdn.com/wp-content/uploads/2026/01/Tausif-Khan-OAM.jpg",
+      "image": "assets/people/tausif-khan.webp",
+      "shortlisted": true,
+      "priority": 1,
+      "rosterOrder": 1
+    },
+    {
+      "id": "namrata-datt",
+      "name": "Namrata Datt",
+      "state": "QLD",
+      "city": "Brisbane",
+      "location": "Brisbane, Queensland / India",
+      "role": "Founder and Director, Lotus Advisers; Australia India Business Council leader",
+      "bio": "Namrata Datt founded Lotus Advisers to help Australian and Indian organisations build commercial partnerships. Based between Brisbane and India, she brings experience in business journalism, marketing and strategy, and has held leadership roles with the Australia India Business Council.",
+      "group": "leader",
+      "guestStatus": "proposed",
+      "sources": [
+        {
+          "url": "https://www.lotusadvisers.com/team",
+          "label": "Official company biography"
+        },
+        {
+          "url": "https://aibc.org.au/namrata-datt/",
+          "label": "Official AIBC biography and portrait"
+        },
+        {
+          "url": "https://aibc.org.au/state-chapters/queensland/",
+          "label": "AIBC Queensland chapter"
+        },
+        {
+          "url": "https://www.linkedin.com/in/namrata-datt/",
+          "label": "Public professional profile"
+        }
+      ],
+      "credit": "Australia India Business Council",
+      "tags": [
+        "Brisbane",
+        "Business & trade"
+      ],
+      "portraitSource": "https://aibc.org.au/wp-content/uploads/2026/04/Namrata-Datt.webp",
+      "image": "assets/people/namrata-datt.webp",
+      "shortlisted": true,
+      "priority": 2,
+      "rosterOrder": 2
+    },
+    {
+      "id": "ajay-rane",
+      "name": "Professor Ajay Rane OAM",
+      "state": "QLD",
+      "city": "Townsville",
+      "location": "Townsville, Queensland",
+      "role": "Urogynaecologist; humanitarian and women’s health advocate",
+      "bio": "Townsville urogynaecologist Ajay Rane combines clinical care and research with humanitarian work in women’s health. He helped establish specialist services in North Queensland and founded Flourishing Women, supporting fistula treatment. Queensland recognised him as a Queensland Great in 2021.",
+      "group": "leader",
+      "guestStatus": "proposed",
+      "sources": [
+        {
+          "url": "https://www.mater.org.au/health-services/our-specialists/prof-ajay-rane",
+          "label": "Official specialist profile"
+        },
+        {
+          "url": "https://www.qld.gov.au/government/events-awards-sponsorship/awards/qld-day-awards/2021-queensland-greats-recipients",
+          "label": "Queensland Government award profile"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/townsvilles-professor-ajay-rane-among-27-global-indians-honoured-with-pravasi-bharatiya-award-2025/o8kqkblft",
+          "label": "SBS interview, January 2025"
+        }
+      ],
+      "credit": "Mater, official specialist portrait",
+      "tags": [
+        "Townsville",
+        "Medicine & humanitarian service"
+      ],
+      "portraitSource": "https://www.mater.org.au/kenticoimage.axd/media/c32e85ec-31ff-4671-a30c-8bba87f81d42/Prof-Ajay-Rane.png?width=525&rmode=crop&d=090722&hmac=a5809ccb71d7c91e195aba0e986278880e9d80ad72e742a9a2eb43a27558b9b9",
+      "image": "assets/people/ajay-rane.webp",
+      "shortlisted": true,
+      "priority": 3,
+      "rosterOrder": 3
+    },
+    {
+      "id": "mohan-jacob",
+      "name": "Professor Mohan Jacob",
+      "state": "QLD",
+      "city": "Townsville",
+      "location": "Townsville, Queensland",
+      "role": "Professor of Electrical Engineering, James Cook University",
+      "bio": "James Cook University professor Mohan Jacob works on electrical engineering, advanced materials and sustainable technologies in Townsville. His research examines plasma-based materials, coatings and microwave processing of waste, including converting microplastics into graphene and agricultural residues into useful products.",
+      "group": "leader",
+      "guestStatus": "proposed",
+      "sources": [
+        {
+          "url": "https://portfolio.jcu.edu.au/researchers/mohan.jacob",
+          "label": "Official JCU research profile"
+        },
+        {
+          "url": "https://decarb-hub.org/expert/mohan-jacob",
+          "label": "Queensland Decarbonisation Hub expert profile"
+        },
+        {
+          "url": "https://scholarconnect.kshec.org/scholar-engagements/5",
+          "label": "Kerala State Higher Education Council, February 2026"
+        }
+      ],
+      "credit": "James Cook University, official research profile",
+      "tags": [
+        "Townsville",
+        "Science & innovation"
+      ],
+      "portraitSource": "https://portfolio.jcu.edu.au/api/photos/JCU41499",
+      "image": "assets/people/mohan-jacob.webp",
+      "shortlisted": true,
+      "priority": 4,
+      "rosterOrder": 4
+    },
+    {
+      "id": "amarjit-grewal",
+      "name": "Amarjit Grewal",
+      "state": "SA",
+      "location": "Adelaide · SA",
+      "role": "Deputy Chair, South Australian Multicultural Commission",
+      "bio": "Punjab-born Amarjit Grewal is Deputy Chair of the South Australian Multicultural Commission for the 2024–2027 term. A former president of the Indian Australian Association of South Australia, he has helped organise Indian Mela and build links between multicultural communities, government and local organisations.",
+      "group": "leader",
+      "priority": 0,
+      "image": "assets/people/amarjit-grewal.webp",
+      "sources": [
+        {
+          "url": "https://dpc.sa.gov.au/responsibilities/multicultural-affairs/south-australian-multicultural-commission",
+          "label": "Public profile & role"
+        }
+      ],
+      "portraitSource": "https://dpc.sa.gov.au/responsibilities/multicultural-affairs/south-australian-multicultural-commission",
+      "credit": "Department of the Premier and Cabinet, South Australia",
+      "tags": [
+        "Adelaide",
+        "Community leadership"
+      ],
+      "heritage": "Official South Australian government profile states he was born in Punjab, India and migrated in 2004.",
+      "shortlisted": true,
+      "rosterOrder": 0
+    },
+    {
+      "id": "satish-gupta",
+      "name": "Dr Satish Gupta OAM",
+      "state": "SA",
+      "city": "Adelaide",
+      "location": "Hallett Cove, Adelaide, South Australia",
+      "role": "Author, environmental planner and community contributor",
+      "bio": "Dr Satish Gupta received an OAM in 2025 for service to South Australia. His work includes Rotary leadership, the Indian Australian Association of South Australia and Australia–India trade initiatives. He has also published novels drawing on Indian and Australian experiences.",
+      "group": "leader",
+      "guestStatus": "Background profile — current availability unverified",
+      "sources": [
+        {
+          "url": "https://writerssa.org.au/our-authors/satish-gupta/",
+          "label": "Writers SA author profile"
+        },
+        {
+          "url": "https://www.gg.gov.au/sites/default/files/2025-10/KB25%20-%20Honours%20List%20Media%20Notes%20-%20Order%20of%20Australia%20-%20OAM%20Medal%2007102025.pdf",
+          "label": "Official 2025 OAM citation"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/dr-satish-gupta-receives-the-medal-of-the-order-of-australia-for-service-to-the-community-of-south-australia/0oei7cque",
+          "label": "SBS interview, June 2025"
+        },
+        {
+          "url": "https://www.indianlink.com.au/dr-satish-gupta-oam-kings-birthday-honours-2025/",
+          "label": "Direct honours interview, June 2025"
+        }
+      ],
+      "credit": "Writers SA, author member portrait; photographer not specified",
+      "tags": [
+        "Adelaide",
+        "Writing & community"
+      ],
+      "portraitSource": "https://writerssa.org.au/wp-content/uploads/2014/05/SatishGupta_180.jpg",
+      "image": "assets/people/satish-gupta.webp",
+      "shortlisted": true,
+      "priority": 1,
+      "rosterOrder": 1
+    },
+    {
+      "id": "joseph-john",
+      "name": "Joseph John (JJ)",
+      "state": "SA",
+      "city": "Adelaide",
+      "location": "Adelaide, South Australia",
+      "role": "Senior Economic Development Advisor, City of Salisbury; Australia–India business leader",
+      "bio": "Joseph John works in economic development at the City of Salisbury and has built Australia–India trade and investment connections. His career spans public and private organisations across several countries, alongside leadership with the Australia India Business Council’s South Australian chapter.",
+      "group": "leader",
+      "guestStatus": "proposed",
+      "sources": [
+        {
+          "url": "https://aibc.org.au/joseph-john-jj/",
+          "label": "Official AIBC biography and portrait"
+        },
+        {
+          "url": "https://www.flyfta.com/aibc-chair-visits-fta/",
+          "label": "Flight Training Adelaide, May 2025"
+        },
+        {
+          "url": "https://au.linkedin.com/in/josephjohn0110",
+          "label": "Public professional profile"
+        }
+      ],
+      "credit": "Australia India Business Council",
+      "tags": [
+        "Adelaide",
+        "Business & trade"
+      ],
+      "portraitSource": "https://aibc.org.au/wp-content/uploads/2026/03/Joseph-John.png",
+      "image": "assets/people/joseph-john.webp",
+      "shortlisted": true,
+      "priority": 2,
+      "rosterOrder": 2
+    },
+    {
+      "id": "veena-madan",
+      "name": "Veena Madan",
+      "state": "SA",
+      "city": "Adelaide",
+      "location": "Adelaide, South Australia",
+      "role": "Educator and community leader; Australia Day Council of South Australia ambassador",
+      "bio": "Adelaide educator Veena Madan combines secondary school experience with multicultural community service. An Australia Day Council of South Australia ambassador, she has led Indian cultural events and seniors programmes and contributed to women’s advocacy through the Multicultural Communities Council of South Australia.",
+      "group": "leader",
+      "guestStatus": "proposed",
+      "sources": [
+        {
+          "url": "https://australiadaysa.com.au/people/veena-madan/",
+          "label": "Official Australia Day Council SA profile"
+        },
+        {
+          "url": "https://australiadaysa.com.au/our-ambassadors/",
+          "label": "Current public ambassadors directory"
+        }
+      ],
+      "credit": "Australia Day Council of South Australia",
+      "tags": [
+        "Adelaide",
+        "Education & community"
+      ],
+      "portraitSource": "https://australiadaysa.com.au/wp-content/uploads/2025/07/Veena-Masan.jpg",
+      "image": "assets/people/veena-madan.webp",
+      "shortlisted": true,
+      "priority": 3,
+      "rosterOrder": 3
+    },
+    {
+      "id": "catherine-hutchesson",
+      "name": "Catherine Hutchesson",
+      "state": "SA",
+      "location": "Waite · SA",
+      "role": "Member for Waite",
+      "bio": "Catherine Hutchesson represents Waite for Labor in South Australia’s House of Assembly, first elected in 2022. A former chef and union advocate, she is also a volunteer firefighter. Her maiden parliamentary speech acknowledged Indian heritage and described her mother’s family moving from Lucknow to Salisbury.",
+      "group": "parliament",
+      "priority": 4,
+      "image": "assets/people/catherine-hutchesson.webp",
+      "sources": [
+        {
+          "url": "https://suffrage.parliament.sa.gov.au/women-in-parliament/",
+          "label": "Parliament of SA — Women in Parliament"
+        },
+        {
+          "url": "https://hansardsearch.parliament.sa.gov.au/daily/lh/2022-05-18/2",
+          "label": "Parliament of SA — inaugural speech, 18 May 2022"
+        },
+        {
+          "url": "https://www.ecsa.sa.gov.au/electoral-districts/electoral-district-profiles/waite",
+          "label": "Electoral Commission SA — Waite"
+        },
+        {
+          "url": "https://www.abc.net.au/news/elections/sa/2026/guide/wait/",
+          "label": "ABC — Waite 2026 guide"
+        }
+      ],
+      "portraitSource": "https://suffrage.parliament.sa.gov.au/wp-content/uploads/2026/02/Hutchesson-Catherine-683x1024.jpg",
+      "credit": "Parliament of South Australia",
+      "tags": [
+        "Waite",
+        "Australian Labor Party",
+        "House of Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "House of Assembly",
+      "heritage": "Self-declared Indian heritage; mother and maternal family migrated from Lucknow",
+      "shortlisted": true,
+      "rosterOrder": 4
+    },
+    {
+      "id": "ajit-ramadas",
+      "name": "Ajit Ramadas",
+      "state": "TAS",
+      "location": "Hobart, Tasmania",
+      "role": "Chairperson, Deepavali Tasmania",
+      "bio": "Ajit Ramadas is a Tasmanian community organiser and chairperson of Deepavali Tasmania. His work brings people together through Diwali celebrations and multicultural activities. He also works as a design officer with Tasmania’s Department of State Growth and participates in the Tasmanian Leaders Program.",
+      "group": "leader",
+      "communityScope": "Indian Australian community",
+      "priority": 0,
+      "image": "assets/people/ajit-ramadas.webp",
+      "sources": [
+        {
+          "url": "https://www.tasmanianleaders.org.au/current-tlp-participants/",
+          "label": "Official/public organisational profile"
+        },
+        {
+          "url": "https://www.diwalitas.org.au/diwali-tasmania-management",
+          "label": "Supporting public source"
+        },
+        {
+          "url": "https://www.icstas.org.au/icst-50th-anniversary",
+          "label": "Supporting public source"
+        }
+      ],
+      "portraitSource": "https://assets.tasmanianleaders.org.au/uploads/2026/03/Ajit-Saralabai-Ramadas-300x300.jpg",
+      "credit": "Tasmanian Leaders Inc",
+      "tags": [
+        "TAS",
+        "Community & culture"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 0
+    },
+    {
+      "id": "nav-singh",
+      "name": "Nav Singh",
+      "state": "TAS",
+      "location": "Hobart, Tasmania",
+      "role": "Winemaker and co-founder, Domaine Simha",
+      "bio": "Nav Singh is a Tasmanian winemaker and co-founder of Domaine Simha with Louise Radman. Trained in viticulture and oenology at the University of Adelaide, he developed his craft in Burgundy and Bordeaux and makes small-batch wines from Tasmanian vineyards.",
+      "group": "leader",
+      "communityScope": "Indian Australian community",
+      "priority": 1,
+      "image": "assets/people/nav-singh.webp",
+      "sources": [
+        {
+          "url": "https://www.domainesimha.com/pages/about",
+          "label": "Official/public organisational profile"
+        },
+        {
+          "url": "https://www.stategrowth.tas.gov.au/__data/assets/pdf_file/0011/158096/Tasmania_Prospectus_for_South_Asia_Capacity_Statements.pdf",
+          "label": "Supporting public source"
+        },
+        {
+          "url": "https://www.spiritoftasmania.com.au/things-to-do/institut-polaire/",
+          "label": "Supporting public source"
+        }
+      ],
+      "portraitSource": "https://cdn.supadupa.me/shop/19156/images/2145161/Nav_Singh_web_image_sml_original.png?1449118815",
+      "credit": "Domaine Simha",
+      "tags": [
+        "TAS",
+        "Business & entrepreneurship"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 1
+    },
+    {
+      "id": "georgie-ibbott",
+      "name": "Georgie Ibbott",
+      "state": "TAS",
+      "location": "Tasmania",
+      "role": "President, Tasmanian Council of Social Service",
+      "bio": "Georgie Ibbott is president of the Tasmanian Council of Social Service and an independent board chair. Her work spans governance, community organisations and volunteering, including Wildlife Network Tasmania and Orange Sky. She brings experience as an executive, chief executive and consultant.",
+      "group": "leader",
+      "communityScope": "Broader Australian guest perspective",
+      "priority": 2,
+      "image": "assets/people/georgie-ibbott.webp",
+      "sources": [
+        {
+          "url": "https://tascoss.org.au/about/tascoss/board/",
+          "label": "Official/public organisational profile"
+        }
+      ],
+      "portraitSource": "https://tascoss-org-au.assets.ionatahosting.net/uploads/2023/08/GI-2048x951.png",
+      "credit": "Tasmanian Council of Social Service",
+      "tags": [
+        "TAS",
+        "Community leadership"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 2
+    },
+    {
+      "id": "tejinder-pal-singh",
+      "name": "Tejinder Pal Singh",
+      "state": "NT",
+      "location": "Darwin · NT",
+      "role": "Sikh Family Food Van founder; 2017 Northern Territory Local Hero",
+      "bio": "Darwin's Tejinder Pal Singh founded a food van serving free vegetarian meals to people in need. After moving from Punjab to Australia in 2006, he turned a racist encounter into a commitment to service and understanding. He was the Northern Territory's 2017 Local Hero.",
+      "group": "leader",
+      "priority": 0,
+      "image": "assets/people/tejinder-pal-singh.webp",
+      "sources": [
+        {
+          "url": "https://www.australianoftheyear.org.au/recipients/tejinder-pal-singh",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/punjabi/en/podcast-episode/cyclone-fina-how-a-sikh-food-van-sparked-community-led-relief-in-darwin/9bmq7wxf9/",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/punjabi/en/podcast-episode/one-man-and-his-food-van-are-breaking-cultural-barriers-in-darwin-with-goodness/gmkcl1izf",
+          "label": "Published heritage background"
+        }
+      ],
+      "portraitSource": "https://www.australianoftheyear.org.au/recipients/tejinder-pal-singh",
+      "credit": "Australian of the Year Awards / National Australia Day Council",
+      "tags": [
+        "Darwin",
+        "Community service"
+      ],
+      "heritage": "SBS interview states he migrated from Punjab in north India in 2006; official award profile also describes his Punjab origins.",
+      "shortlisted": true,
+      "rosterOrder": 0
+    },
+    {
+      "id": "sadhana-mahajani",
+      "name": "Dr Sadhana Mahajani AM",
+      "state": "NT",
+      "location": "Darwin · NT",
+      "role": "Community physician; 2013 Northern Territory Senior Australian of the Year",
+      "bio": "India-born physician Sadhana Mahajani helped establish Darwin’s community health services and continued caring for Territorians after Cyclone Tracy. Her career includes women’s health, remote community visits and dementia care. She was the Northern Territory’s 2013 Senior Australian of the Year and appointed AM in 2023.",
+      "group": "leader",
+      "priority": 1,
+      "image": "assets/people/sadhana-mahajani.webp",
+      "sources": [
+        {
+          "url": "https://www.australianoftheyear.org.au/recipients/dr-sadhana-mahajani",
+          "label": "Public profile & role"
+        },
+        {
+          "url": "https://www.dementia.org.au/media-centre/media-releases/former-dementia-australia-board-members-recognised-australia-day",
+          "label": "Public profile & role"
+        }
+      ],
+      "portraitSource": "https://www.australianoftheyear.org.au/recipients/dr-sadhana-mahajani",
+      "credit": "Australian of the Year Awards / National Australia Day Council",
+      "tags": [
+        "Darwin",
+        "Medicine and community health"
+      ],
+      "heritage": "Official Australian of the Year profile explicitly describes her as Indian-born.",
+      "shortlisted": true,
+      "rosterOrder": 1
+    },
+    {
+      "id": "jinson-charls",
+      "name": "Jinson Charls",
+      "state": "NT",
+      "location": "Sanderson · NT",
+      "role": "Member for Sanderson; Minister",
+      "bio": "Jinson Charls represents Sanderson for the Country Liberal Party and serves in the Northern Territory ministry. Born in Kerala, India, he migrated to Australia in 2011 and moved to Darwin in 2015. His nursing and clinical leadership career preceded election to the Assembly in 2024.",
+      "group": "parliament",
+      "priority": 2,
+      "image": "assets/people/jinson-charls.webp",
+      "sources": [
+        {
+          "url": "https://parliament.nt.gov.au/members/by-name/jinson-anto-charls",
+          "label": "NT Legislative Assembly — current member"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2024-09-09/nt-clp-government-cabinet-ministers-announced/104271062",
+          "label": "ABC — new NT cabinet, 9 September 2024"
+        },
+        {
+          "url": "https://clp.org.au/team/jinson-anto-charls",
+          "label": "Country Liberal Party — Jinson Charls"
+        }
+      ],
+      "portraitSource": "https://cdn.prod.website-files.com/66847c865b0360cfda606fed/6ac443d517210e172c6be09e_jinson.jpg",
+      "credit": "Country Liberal Party",
+      "tags": [
+        "Sanderson",
+        "Country Liberal Party",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Indian-born Australian; born in Kerala",
+      "shortlisted": true,
+      "rosterOrder": 2
+    },
+    {
+      "id": "khoda-patel",
+      "name": "Khoda Patel",
+      "state": "NT",
+      "location": "Casuarina · NT",
+      "role": "Member for Casuarina",
+      "bio": "Khoda Patel has represented Casuarina for the Country Liberal Party since the 2024 Northern Territory election. Born in Gujarat, India, he lived in Cyprus before settling in Australia. With experience in hospitality and business, he has community connections across Darwin’s multicultural organisations and tourism sector.",
+      "group": "parliament",
+      "priority": 3,
+      "image": "assets/people/khoda-patel.webp",
+      "sources": [
+        {
+          "url": "https://parliament.nt.gov.au/members/by-name/khoda-patel",
+          "label": "NT Legislative Assembly — current member"
+        },
+        {
+          "url": "https://clp.org.au/team/khoda-patel",
+          "label": "Country Liberal Party — Khoda Patel"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2024-08-26/nt-election-results-electorate-seat-candidates/104252768",
+          "label": "ABC — 2024 NT electorate results"
+        }
+      ],
+      "portraitSource": "https://cdn.prod.website-files.com/66847c865b0360cfda606fed/6ac4443c26efbb0bae482cb1_khoda.jpg",
+      "credit": "Country Liberal Party",
+      "tags": [
+        "Casuarina",
+        "Country Liberal Party",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Indian-born Australian; born in Gujarat, lived in Cyprus before Australia",
+      "shortlisted": true,
+      "rosterOrder": 3
+    },
+    {
+      "id": "felix-ho",
+      "name": "Dr Felix Ho ASM OAM",
+      "state": "NT",
+      "location": "Darwin / Northern Territory",
+      "role": "Medical practitioner and St John Ambulance youth leader",
+      "bio": "Dr Felix Ho is a Northern Territory medical practitioner and St John Ambulance youth leader, named the 2026 NT Australian of the Year. Born in Hong Kong, he moved to Australia as a child and later worked in paramedicine, medicine and community volunteering.",
+      "sources": [
+        {
+          "url": "https://australianoftheyear.org.au/recipients/dr-felix-ho-asm-oam",
+          "label": "Australian of the Year Awards — recipient profile"
+        },
+        {
+          "url": "https://www.stjohnnt.org.au/our-board",
+          "label": "St John Ambulance NT — Our Board"
+        },
+        {
+          "url": "https://www.defence.gov.au/news-events/news/2026-01-26/reservist-named-nt-australian-year",
+          "label": "Department of Defence — Reservist named NT Australian of the Year"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2026-02-13/nt-australian-of-year-dr-felix-ho-thousands-of-volunteer-hours/106329556",
+          "label": "ABC News — Felix Ho profile, 13 February 2026"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/vietnamese/en/article/from-immigrant-boy-to-northern-territorys-australian-of-the-year-the-inspiring-journey-of-dr-felix-ho/mmcpwq7mp",
+          "label": "SBS — The inspiring journey of Dr Felix Ho"
+        },
+        {
+          "url": "https://www.volunteeringaustralia.org/nt-finalist-felix-ho/",
+          "label": "Volunteering Australia — Felix Ho"
+        }
+      ],
+      "image": "assets/people/felix-ho.webp",
+      "group": "leader",
+      "credit": "Australian of the Year Awards / National Australia Day Council",
+      "portraitSource": "https://australianoftheyear.org.au/sites/default/files/2025-11/nt-aoty.jpg",
+      "tags": [
+        "NT",
+        "Community & contribution"
+      ],
+      "shortlisted": true,
+      "priority": 4,
+      "rosterOrder": 4,
+      "communityScope": "Broader Australian guest perspective"
+    },
+    {
+      "id": "nishi-puri",
+      "name": "Nishi Puri OAM",
+      "state": "ACT",
+      "location": "Canberra, Australian Capital Territory",
+      "role": "President, Multicultural Association of Canberra",
+      "bio": "Nishi Puri OAM is president of the Multicultural Association of Canberra. Her community work supports cultural inclusion, migrant communities and connections across the ACT. In 2023, she received the Medal of the Order of Australia for service to Canberra’s Indian community.",
+      "group": "leader",
+      "communityScope": "Indian Australian community",
+      "priority": 0,
+      "image": "assets/people/nishi-puri.webp",
+      "sources": [
+        {
+          "url": "https://themac.net.au/team-members/",
+          "label": "Official/public organisational profile"
+        },
+        {
+          "url": "https://www.canberra.edu.au/about-uc/media/newsroom/2023/june/the-2023-kings-birthday-honours-list-saw-18-members-of-the-uc-community-honoured",
+          "label": "Supporting public source"
+        },
+        {
+          "url": "https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/michael-pettersson-mla-media-releases/2026/15th-annual-multicultural-award-winners-announced",
+          "label": "Supporting public source"
+        }
+      ],
+      "portraitSource": "https://themac.net.au/wp-content/uploads/2021/01/nishi-puri.jpg",
+      "credit": "Multicultural Association of Canberra",
+      "tags": [
+        "ACT",
+        "Community & inclusion"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 0
+    },
+    {
+      "id": "sanjay-sharma",
+      "name": "Sanjay Sharma",
+      "state": "ACT",
+      "location": "Canberra, Australian Capital Territory",
+      "role": "Founder, Indian Australian Multicultural Sports Association",
+      "bio": "Sanjay Sharma is a Canberra educator and founder of the Indian Australian Multicultural Sports Association. He creates opportunities for people of different backgrounds to connect through cricket, including children’s programs and community tournaments. His work has received national recognition for inclusion and diversity.",
+      "group": "leader",
+      "communityScope": "Indian Australian community",
+      "priority": 1,
+      "image": "assets/people/sanjay-sharma.webp",
+      "sources": [
+        {
+          "url": "https://www.cricketact.com.au/news/4024221/local-volunteer-recognised-in-national-community-cricket-awards",
+          "label": "Official/public organisational profile"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/sanjay-sharma-receives-act-multicultural-individual-champion-award-for-uniting-communities-through-cricket/anwbj10vm",
+          "label": "Supporting public source"
+        },
+        {
+          "url": "https://www.abc.net.au/listen/programs/canberra-mornings/sanjay-sharma-indian-australian-multicultural-sports-association/13515096",
+          "label": "Supporting public source"
+        }
+      ],
+      "portraitSource": "https://sbs-au-brightspot.s3.ap-southeast-2.amazonaws.com/e9/88/165ceaec4e308a52e42a13357e35/2.png",
+      "credit": "SBS Hindi; AAP / Dilip Chaube",
+      "tags": [
+        "ACT",
+        "Sport & opportunity"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 1
+    },
+    {
+      "id": "deepak-raj-gupta",
+      "name": "Deepak-Raj Gupta OAM",
+      "state": "ACT",
+      "location": "Canberra, Australian Capital Territory",
+      "role": "National Chair, Australia India Business Council; former ACT MLA",
+      "bio": "Deepak-Raj Gupta OAM is national chair of the Australia India Business Council and a former ACT Legislative Assembly member for Yerrabi. His work connects business, government and community organisations, with a focus on Australia–India trade, multicultural participation and economic relationships.",
+      "group": "leader",
+      "communityScope": "Indian Australian community",
+      "priority": 2,
+      "image": "assets/people/deepak-raj-gupta.webp",
+      "sources": [
+        {
+          "url": "https://aibc.org.au/deepak-raj-gupta-oam/",
+          "label": "Official/public organisational profile"
+        },
+        {
+          "url": "https://www.parliament.act.gov.au/members/former/previous-assemblies/ninth-assembly",
+          "label": "Supporting public source"
+        }
+      ],
+      "portraitSource": "https://aibc.org.au/wp-content/uploads/2024/12/128.jpg",
+      "credit": "Australia India Business Council",
+      "tags": [
+        "ACT",
+        "Business & public service"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 2
+    },
+    {
+      "id": "ravi-krishnamurthy",
+      "name": "Ravi Krishnamurthy",
+      "state": "ACT",
+      "location": "Canberra, Australian Capital Territory",
+      "role": "Founder, Australian Multicultural Action Network",
+      "bio": "Ravi Krishnamurthy is a Canberra community advocate and founder of the Australian Multicultural Action Network. His work spans disability inclusion, health equity, language access and mentoring emerging leaders. He received the ACT Multicultural Lifetime Achievement Award in 2026.",
+      "group": "leader",
+      "communityScope": "Indian Australian community",
+      "priority": 3,
+      "image": "assets/people/ravi-krishnamurthy.webp",
+      "sources": [
+        {
+          "url": "https://amanact.org/about/",
+          "label": "Official/public organisational profile"
+        },
+        {
+          "url": "https://cmcf.org.au/executive-committee/",
+          "label": "Supporting public source"
+        },
+        {
+          "url": "https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/michael-pettersson-mla-media-releases/2026/15th-annual-multicultural-award-winners-announced",
+          "label": "Supporting public source"
+        }
+      ],
+      "portraitSource": "https://cmcf.org.au/wp-content/uploads/2025/12/ravi-krishnamurthy.png",
+      "credit": "Canberra Multicultural Community Forum",
+      "tags": [
+        "ACT",
+        "Service & mentoring"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 3
+    },
+    {
+      "id": "trish-carling",
+      "name": "Trish Carling",
+      "state": "ACT",
+      "location": "Canberra, Australian Capital Territory",
+      "role": "Volunteer, Palliative Care ACT and MND support services",
+      "bio": "Trish Carling is a Canberra volunteer who has supported patients and families at Clare Holland House since 1996. Through Palliative Care ACT and motor neurone disease services, she offers companionship and practical help. She was Canberra Region’s 2025 Volunteer of the Year.",
+      "group": "leader",
+      "communityScope": "Broader Australian guest perspective",
+      "priority": 4,
+      "image": "assets/people/trish-carling.webp",
+      "sources": [
+        {
+          "url": "https://www.volunteeringaustralia.org/act-finalist-trish-carling/",
+          "label": "Official/public organisational profile"
+        },
+        {
+          "url": "https://www.mndnsw.org.au/blog/328-february-2026/1948-volunteer-spotlight-meet-trish.html",
+          "label": "Supporting public source"
+        }
+      ],
+      "portraitSource": "https://www.mndnsw.org.au/images/2026/volunteer_spotlight_trish_carling_2026.jpg",
+      "credit": "Motor Neurone Disease NSW",
+      "tags": [
+        "ACT",
+        "Compassion & care"
+      ],
+      "shortlisted": true,
+      "rosterOrder": 4
+    },
+    {
+      "id": "zaneta-mascarenhas",
+      "name": "Zaneta Mascarenhas",
+      "state": "WA",
+      "location": "Swan · WA",
+      "role": "Member for Swan",
+      "bio": "Born in Kalgoorlie to parents of Goan Indian heritage, Zaneta Mascarenhas has represented Swan for Labor since 2022 and was reelected in 2025. An engineer and climate specialist before politics, she brings professional experience in industry, decarbonisation and community advocacy to the House of Representatives.",
+      "group": "parliament",
+      "priority": 70,
+      "image": "assets/people/zaneta-mascarenhas.webp",
+      "sources": [
+        {
+          "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298800",
+          "label": "Parliament of Australia — current member"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/a-woman-of-colour-in-steel-capped-boots-zaneta-mascarenhass-journey-from-engineer-to-mp/vx8xejhb1",
+          "label": "SBS Hindi — interview about Indian heritage"
+        },
+        {
+          "url": "https://www.alp.org.au/our-people/our-people/zaneta-mascarenhas/",
+          "label": "Australian Labor Party — Zaneta Mascarenhas"
+        }
+      ],
+      "portraitSource": "https://www.alp.org.au/media/2752/swan-zaneta-mascarenhas.jpg",
+      "credit": "Australian Labor Party",
+      "tags": [
+        "Swan",
+        "Australian Labor Party",
+        "House of Representatives"
+      ],
+      "chamber": "Federal",
+      "office": "House of Representatives",
+      "heritage": "Goan Indian heritage; both parents born in Goa and raised in Kenya",
+      "shortlisted": false
+    },
+    {
+      "id": "prue-car",
+      "name": "Prue Car",
+      "state": "NSW",
+      "location": "Londonderry · NSW",
+      "role": "Deputy Premier; Member for Londonderry",
+      "bio": "Prue Car represents Londonderry for Labor and serves as New South Wales Deputy Premier and Minister for Education and Early Learning. First elected in 2015, she served on Penrith City Council. Her documented family heritage includes Indian and French ancestry, with roots in West Bengal.",
+      "group": "parliament",
+      "priority": 70,
+      "image": "assets/people/prue-car.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.nsw.gov.au/members-and-electorates/members-and-ministers/members-details?memberId=105",
+          "label": "Parliament of NSW — current member"
+        },
+        {
+          "url": "https://indiaspora.org/government-leaders/prue-car/",
+          "label": "Indiaspora — Prue Car"
+        },
+        {
+          "url": "https://thenightly.com.au/politics/the-fourth-generation-australian-sick-of-being-told-he-is-indian-c-19994811",
+          "label": "The Nightly — Indian heritage of NSW leaders"
+        },
+        {
+          "url": "https://www.nswlabor.org.au/prue_car",
+          "label": "NSW Labor — official profile and portrait"
+        }
+      ],
+      "portraitSource": "https://assets.nationbuilder.com/nswlabor/pages/2705/meta_images/original/Prue_Car.jpg?1768283560",
+      "credit": "NSW Labor",
+      "tags": [
+        "Londonderry",
+        "Australian Labor Party",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Publicly documented Indian and French heritage; father from Durgapur, West Bengal",
+      "shortlisted": false
+    },
+    {
+      "id": "gurmesh-singh",
+      "name": "Gurmesh Singh",
+      "state": "NSW",
+      "location": "Coffs Harbour · NSW",
+      "role": "NSW Nationals Leader; Member for Coffs Harbour",
+      "bio": "Gurmesh Singh represents Coffs Harbour for the Nationals and has led the party since November 2025. The former macadamia and blueberry grower was first elected in 2019. In his inaugural speech, he traced his family’s Australian story to his great-grandfather’s migration from Punjab in 1895.",
+      "group": "parliament",
+      "priority": 70,
+      "image": "assets/people/gurmesh-singh.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.nsw.gov.au/members-and-electorates/members-and-ministers/members-details?memberId=2244",
+          "label": "Parliament of NSW — current member"
+        },
+        {
+          "url": "https://www.parliament.nsw.gov.au/member/files/2244/Gurmesh%20Singh%20inaugural%20speech.pdf",
+          "label": "Parliament of NSW — inaugural speech"
+        },
+        {
+          "url": "https://www.nswnationals.org.au/gurmesh-singh-mp/",
+          "label": "NSW Nationals — official Gurmesh Singh profile"
+        }
+      ],
+      "portraitSource": "https://www.nswnationals.org.au/wp-content/uploads/2023/03/Gurmesh-SINGH-COFFS-HARBOUR.png",
+      "credit": "NSW Nationals",
+      "tags": [
+        "Coffs Harbour",
+        "The Nationals",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Australian-born with Punjabi Indian ancestry; great-grandfather Bella Singh migrated from Punjab in 1895",
+      "shortlisted": false
+    },
+    {
+      "id": "jags-krishnan",
+      "name": "Dr Jags Krishnan",
+      "state": "WA",
+      "location": "Riverton · WA",
+      "role": "Member for Riverton",
+      "bio": "Dr Jags Krishnan represents Riverton for Labor in the Western Australian Legislative Assembly, elected in 2021 and reelected in 2025. Born in India, he worked as a GP before entering politics. His medical career and advocacy inform his focus on healthcare, families and community services.",
+      "group": "parliament",
+      "priority": 70,
+      "image": "assets/people/jags-krishnan.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/AllDocs/475F93A979B2E4D0482586A000292300",
+          "label": "Parliament of WA — current member"
+        },
+        {
+          "url": "https://www.abc.net.au/news/elections/wa/2025/guide/rive",
+          "label": "ABC — Riverton profile"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/tamil/en/podcast-episode/first-tamil-to-become-a-member-of-an-australian-parliament/gev2zaamq",
+          "label": "SBS Tamil — interview with Jags Krishnan"
+        },
+        {
+          "url": "https://drjags.com.au/meet-jags/",
+          "label": "Dr Jags — official website"
+        }
+      ],
+      "portraitSource": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jags_Parliamentary_Portrait_4.jpg",
+      "credit": "Lifeless Potato / Wikimedia Commons, CC BY-SA 4.0",
+      "tags": [
+        "Riverton",
+        "Australian Labor Party",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Indian-born Australian; Tamil heritage, born and raised in Tamil Nadu",
+      "portraitLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "portraitModification": "Resized and converted to WebP; portrait CC BY-SA 4.0.",
+      "shortlisted": false
+    },
+    {
+      "id": "yaz-mubarakai",
+      "name": "Yaz Mubarakai",
+      "state": "WA",
+      "location": "Oakford · WA",
+      "role": "Member for Oakford; Parliamentary Secretary",
+      "bio": "Mumbai-raised Yaz Mubarakai is Labor’s member for Oakford, elected to the electorate in 2025 after representing Jandakot since 2017. A former Cockburn councillor and small business owner, he has served as a parliamentary secretary since 2021. His career connects local government, community services and enterprise.",
+      "group": "parliament",
+      "priority": 70,
+      "image": "assets/people/yaz-mubarakai.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/d568c74c360e0bd4482568fc00652fea/21e2cb50a55f6d56482580f0002d97ce",
+          "label": "Parliament of WA — current member"
+        },
+        {
+          "url": "https://yazmubarakai.com.au/about/",
+          "label": "Yaz Mubarakai — about"
+        }
+      ],
+      "portraitSource": "https://yazmubarakai.com.au/media/rfgn5kls/2023-yaz-official-mid-crop.jpg",
+      "credit": "Office of Yaz Mubarakai MLA",
+      "tags": [
+        "Oakford",
+        "Australian Labor Party",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Indian-born Australian; born and raised in Mumbai",
+      "shortlisted": false
+    },
+    {
+      "id": "kevin-michel",
+      "name": "Kevin Michel",
+      "state": "WA",
+      "location": "Pilbara · WA",
+      "role": "Member for Pilbara",
+      "bio": "Kevin Michel has represented the Pilbara for Labor since 2017 and was reelected in 2025. Born in Golden Rock, India, he worked in refrigeration and air conditioning before running a Karratha business. His career brings a trades and small business perspective to a regional electorate.",
+      "group": "parliament",
+      "priority": 70,
+      "image": "assets/people/kevin-michel.webp",
+      "sources": [
+        {
+          "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat/Michel%2C%2BKevin%2BJoseph%2BJude",
+          "label": "Parliament of WA — current member"
+        },
+        {
+          "url": "https://www.kevinmichel.com.au/about/about-kevin/",
+          "label": "Kevin Michel — about"
+        }
+      ],
+      "portraitSource": "https://www.kevinmichel.com.au/media/oj2aujzo/untitled-design-11.png",
+      "credit": "Office of Kevin Michel MLA",
+      "tags": [
+        "Pilbara",
+        "Australian Labor Party",
+        "Legislative Assembly"
+      ],
+      "chamber": "State / territory",
+      "office": "Legislative Assembly",
+      "heritage": "Indian-born Australian; born in Golden Rock, India",
+      "shortlisted": false
+    },
+    {
+      "id": "arjun",
+      "name": "Arjun Vekariya",
+      "state": "WA",
+      "group": "host",
+      "shortlisted": false,
+      "priority": 90,
+      "role": "Host, Arjun Uvaach · Owner, BARK Subiaco",
+      "location": "Perth · Western Australia",
+      "image": "assets/arjun/parliament-visit.webp",
+      "imagePosition": "50%25%",
+      "bio": "I moved from India to Australia in July 2022. Today I run BARK Subiaco in Perth and host the Arjun Vekariya Show, sharing conversations about starting again, contribution and the lessons people can pass forward.",
+      "credit": "Photograph supplied by Arjun, during his visit to Parliament House, Canberra.",
+      "portraitSource": null,
+      "sources": [
+        {
+          "url": "https://www.youtube.com/@ArjunUvaacha",
+          "label": "Arjun Vekariya Show — official channel"
+        }
+      ],
+      "tags": [
+        "Your host",
+        "India → Australia, 2022",
+        "Perth"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "id": "mission-perth",
+      "name": "Kajari Biswas",
+      "group": "mission",
+      "office": "Consulate General of India, Perth",
+      "role": "Consul General",
+      "states": [
+        "WA",
+        "NT"
+      ],
+      "jurisdiction": "Western Australia and the Northern Territory",
+      "city": "Perth",
+      "location": "Consulate General of India, Perth",
+      "image": "assets/people/mission-perth.webp",
+      "bio": "Kajari Biswas serves as Consul General at the Consulate General of India, Perth. The office serves Western Australia and the Northern Territory. Explore its official information for consular services and community connections.",
+      "sources": [
+        {
+          "url": "https://cgiperth.gov.in/pages?id=mbk5e&subid=egJYd",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://protocol.dfat.gov.au/Public/Consulates/91/State",
+          "label": "DFAT — official diplomatic directory"
+        }
+      ],
+      "portraitSource": "https://cgiperth.gov.in/pages?id=mbk5e&subid=egJYd",
+      "credit": "Consulate General of India, Perth",
+      "tags": [
+        "Consul General",
+        "Perth"
+      ]
+    },
+    {
+      "id": "mission-sydney",
+      "name": "Dr. S. Janakiraman",
+      "group": "mission",
+      "office": "Consulate General of India, Sydney",
+      "role": "Consul General",
+      "states": [
+        "NSW",
+        "SA"
+      ],
+      "jurisdiction": "New South Wales and South Australia",
+      "city": "Sydney",
+      "location": "Consulate General of India, Sydney",
+      "image": "assets/people/mission-sydney.webp",
+      "bio": "Dr. S. Janakiraman serves as Consul General at the Consulate General of India, Sydney. The office serves New South Wales and South Australia. Explore its official information for consular services and community connections.",
+      "sources": [
+        {
+          "url": "https://audit.cgisydney.gov.in/pages/OA,,",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://audit.cgisydney.gov.in/pages/Nw",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://protocol.dfat.gov.au/Public/Consulates/91/State",
+          "label": "DFAT — official diplomatic directory"
+        }
+      ],
+      "portraitSource": "https://audit.cgisydney.gov.in/pages/OA,,",
+      "credit": "Consulate General of India, Sydney (official audit subdomain)",
+      "tags": [
+        "Consul General",
+        "Sydney"
+      ]
+    },
+    {
+      "id": "mission-melbourne",
+      "name": "Anish Rajan",
+      "group": "mission",
+      "office": "Consulate General of India, Melbourne",
+      "role": "Consul General",
+      "states": [
+        "VIC",
+        "TAS"
+      ],
+      "jurisdiction": "Victoria and Tasmania",
+      "city": "Melbourne",
+      "location": "Consulate General of India, Melbourne",
+      "image": "assets/people/mission-melbourne.webp",
+      "bio": "Anish Rajan serves as Consul General at the Consulate General of India, Melbourne. The office serves Victoria and Tasmania. Explore its official information for consular services and community connections.",
+      "sources": [
+        {
+          "url": "https://cgimelbourne.gov.in/pages/MjQ,",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://protocol.dfat.gov.au/Public/Consulates/91/State/7",
+          "label": "DFAT — official diplomatic directory"
+        },
+        {
+          "url": "https://www.governor.vic.gov.au/june-2026",
+          "label": "Official mission profile"
+        }
+      ],
+      "portraitSource": "https://cgimelbourne.gov.in/",
+      "credit": "Consulate General of India, Melbourne",
+      "tags": [
+        "Consul General",
+        "Melbourne"
+      ]
+    },
+    {
+      "id": "mission-brisbane",
+      "name": "Neetu Mehrada Bhagotia",
+      "group": "mission",
+      "office": "Consulate General of India, Brisbane",
+      "role": "Consul General",
+      "states": [
+        "QLD"
+      ],
+      "jurisdiction": "Queensland",
+      "city": "Brisbane",
+      "location": "Consulate General of India, Brisbane",
+      "image": "assets/people/mission-brisbane.webp",
+      "bio": "Neetu Mehrada Bhagotia serves as Consul General at the Consulate General of India, Brisbane. The office serves Queensland. Explore its official information for consular services and community connections.",
+      "sources": [
+        {
+          "url": "https://www.cgibrisbane.gov.in/page/consul-general-profile/",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://www.cgibrisbane.gov.in/page/consulate-officials/",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://protocol.dfat.gov.au/Public/Consulates/91/State/4",
+          "label": "DFAT — official diplomatic directory"
+        }
+      ],
+      "portraitSource": "https://indiansinsydney.au/%F0%9F%8C%9F-meet-neetu-bhagotia-strengthening-the-india-australia-connection-%F0%9F%8C%8F/",
+      "credit": "Indians in Sydney",
+      "tags": [
+        "Consul General",
+        "Brisbane"
+      ]
+    },
+    {
+      "id": "mission-canberra",
+      "name": "Nagesh Singh",
+      "group": "mission",
+      "office": "High Commission of India, Canberra",
+      "role": "High Commissioner",
+      "states": [
+        "ACT"
+      ],
+      "jurisdiction": "Australian Capital Territory (consular jurisdiction); diplomatic accreditation to Australia",
+      "city": "Canberra",
+      "location": "High Commission of India, Canberra",
+      "image": "assets/people/mission-canberra.webp",
+      "bio": "Nagesh Singh serves as High Commissioner at the High Commission of India, Canberra. The office serves Australian Capital Territory (consular jurisdiction); diplomatic accreditation to Australia. Explore its official information for consular services and community connections.",
+      "sources": [
+        {
+          "url": "https://hcicanberra.gov.in/page/amb-profile/",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://www.hcicanberra.gov.in/eoi.php?id=amb-profile",
+          "label": "Official mission profile"
+        },
+        {
+          "url": "https://protocol.dfat.gov.au/Public/Missions/91",
+          "label": "DFAT — official diplomatic directory"
+        },
+        {
+          "url": "https://hcicanberra.gov.in/docs/1715050952Notice_753309_2.pdf",
+          "label": "Official mission profile"
+        }
+      ],
+      "portraitSource": "https://hcicanberra.gov.in/page/amb-profile/",
+      "credit": "High Commission of India, Canberra",
+      "tags": [
+        "High Commissioner",
+        "Canberra"
+      ]
+    },
+    {
+      "id": "mission-tasmania-honorary",
+      "name": "Dr. Navpreet Kaur",
+      "group": "mission",
+      "office": "Consulate of India, Tasmania (Honorary)",
+      "role": "Honorary Consul of India",
+      "states": [
+        "TAS"
+      ],
+      "jurisdiction": "Tasmania (honorary post); responsible career Consulate General is Melbourne",
+      "city": "Tasmania",
+      "location": "Consulate of India, Tasmania (Honorary)",
+      "image": "assets/people/mission-tasmania-honorary.webp",
+      "bio": "Dr Navpreet Kaur has served as Honorary Consul of India in Tasmania since January 2024. The honorary post is based in Acton Park; the Consulate General of India in Melbourne retains consular jurisdiction over Victoria and Tasmania.",
+      "sources": [
+        {
+          "url": "https://protocol.dfat.gov.au/Public/Consulates/91/State/6",
+          "label": "Official diplomatic directory"
+        },
+        {
+          "url": "https://www.govhouse.tas.gov.au/news/governors-program",
+          "label": "Government House — current role"
+        },
+        {
+          "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/indian-independence-day-how-the-diaspora-is-marking-the-occasion-across-australian-cities-this-year/5w2vr6dg0",
+          "label": "Portrait and public background"
+        },
+        {
+          "url": "https://au.linkedin.com/in/dr-navpreet-kaur-753313165",
+          "label": "Portrait and public background"
+        }
+      ],
+      "portraitSource": "https://www.sbs.com.au/language/hindi/en/podcast-episode/indian-independence-day-how-the-diaspora-is-marking-the-occasion-across-australian-cities-this-year/5w2vr6dg0",
+      "credit": "AAP Images / Supplied, via SBS Hindi",
+      "tags": [
+        "Honorary Consul",
+        "Tasmania"
+      ],
+      "honorary": true
+    }
+  ],
+  "pending": [],
+  "shortlist": {
+    "WA": [
+      "kamlesh-bhatt",
+      "jyothi-tegginamath",
+      "nilesh-makwana",
+      "varun",
+      "parwinder-kaur"
+    ],
+    "VIC": [
+      "ranjana-srivastava",
+      "ghanshyam-bavadiya",
+      "chris-crewther",
+      "malavika-kadwadkar",
+      "eden-foster"
+    ],
+    "NSW": [
+      "charishma-kaliyanda",
+      "manjit-singh-lally",
+      "dave-sharma",
+      "daniel-mookhey",
+      "noshir-irani"
+    ],
+    "QLD": [
+      "usha-kiran-chandra",
+      "tausif-khan",
+      "namrata-datt",
+      "ajay-rane",
+      "mohan-jacob"
+    ],
+    "SA": [
+      "amarjit-grewal",
+      "satish-gupta",
+      "joseph-john",
+      "veena-madan",
+      "catherine-hutchesson"
+    ],
+    "TAS": [
+      "ajit-ramadas",
+      "nav-singh",
+      "georgie-ibbott"
+    ],
+    "NT": [
+      "tejinder-pal-singh",
+      "sadhana-mahajani",
+      "jinson-charls",
+      "khoda-patel",
+      "felix-ho"
+    ],
+    "ACT": [
+      "nishi-puri",
+      "sanjay-sharma",
+      "deepak-raj-gupta",
+      "ravi-krishnamurthy",
+      "trish-carling"
+    ]
+  }
+}
