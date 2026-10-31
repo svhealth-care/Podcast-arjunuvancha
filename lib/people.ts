@@ -23,7 +23,7 @@ export function shortlistedPeople() {
 }
 
 export function parliamentarians() {
-  return people.filter((person) => person.group === "parliament");
+  return people.filter((person) => person.group === "parliament" && person.id !== "varun");
 }
 
 export function hostPerson() {
@@ -38,8 +38,8 @@ export function missionsForState(state: string) {
   return missions.filter((person) => person.states?.includes(state));
 }
 
-export function personHref(person: Person) {
-  return `/voices/${person.id}`;
+export function personHref(_person: Person) {
+  return "/#atlas";
 }
 
 export function personImage(person: Person) {

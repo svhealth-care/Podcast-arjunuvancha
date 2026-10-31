@@ -1,27 +1,33 @@
 import Image from "next/image";
-import Link from "next/link";
+import { AtlasExplorer } from "@/components/atlas-explorer";
 import { Container } from "@/components/container";
-import { ConversationCard } from "@/components/conversation-card";
-import { PersonCard } from "@/components/person-card";
-import { SectionHeading } from "@/components/section-heading";
+import { TwinFlags } from "@/components/flags";
+import { JourneySection } from "@/components/journey-section";
+import { SuggestForm } from "@/components/suggest-form";
+import { historySources } from "@/content/history";
 import { site } from "@/content/site";
-import { featuredConversations } from "@/lib/conversations";
-import { getPerson, shortlistedPeople } from "@/lib/people";
+import { australiaShapes } from "@/lib/australia-map";
+import {
+  directoryReviewed,
+  everyone,
+  missions,
+  shortlistedPeople,
+} from "@/lib/people";
 
 export default function HomePage() {
-  const featured = featuredConversations();
-  const latest = featured[0];
-  const latestPerson = latest ? getPerson(latest.guestId) : undefined;
-  const more = featured.slice(1);
-  const voices = shortlistedPeople().slice(0, 6);
+  const voices = shortlistedPeople();
+  const sourced = everyone.filter((person) => person.sources?.length);
 
   return (
     <div>
-      <section className="relative overflow-hidden border-b border-white/10 bg-black">
-        <div className="mx-auto grid min-h-[38rem] max-w-[1600px] lg:grid-cols-[0.92fr_1.08fr]">
-          <div className="relative z-10 flex flex-col justify-center px-6 py-16 sm:px-12 lg:px-16">
-            <p className="eyebrow">{site.show}</p>
-            <h1 className="mt-7 max-w-xl text-5xl leading-[0.95] tracking-tight sm:text-7xl lg:text-8xl">
+      <section id="beginning" className="scroll-mt-20 border-b border-line bg-black text-cream">
+        <Container className="grid gap-10 py-16 lg:grid-cols-[1.05fr_0.95fr] lg:py-24">
+          <div>
+            <div className="flex flex-wrap items-center gap-4">
+              <p className="eyebrow !text-cream/55">{site.show}</p>
+              <TwinFlags />
+            </div>
+            <h1 className="mt-6 max-w-xl font-display text-5xl leading-[0.95] tracking-tight sm:text-6xl lg:text-7xl">
               The courage
               <br />
               to begin
@@ -29,183 +35,185 @@ export default function HomePage() {
               <em className="not-italic text-cream/45">again.</em>
             </h1>
             <p className="mt-7 max-w-md text-sm leading-7 text-cream/65">{site.description}</p>
-            <div className="mt-8 flex flex-wrap items-center gap-6">
-              <Link href="/voices" className="btn-primary">
-                Meet the voices
+            <div className="mt-8 flex flex-wrap items-center gap-4">
+              <a href="#atlas" className="btn-primary !bg-cream !text-ink hover:!bg-white">
+                Open the atlas
                 <span aria-hidden="true">→</span>
-              </Link>
-              <a href={site.youtube} target="_blank" rel="noopener noreferrer" className="btn-ghost">
+              </a>
+              <a href={site.youtube} target="_blank" rel="noopener noreferrer" className="btn-on-dark">
                 {site.youtubeLabel} ↗
               </a>
             </div>
-            <Link href="/host" className="mt-12 flex max-w-sm items-center gap-4 text-left">
-              <span className="relative h-16 w-12 overflow-hidden bg-ink-800">
+            <a href="#host" className="mt-12 flex max-w-xl items-start gap-4 text-left">
+              <span className="relative mt-1 h-16 w-12 shrink-0 overflow-hidden bg-ink">
                 <Image
-                  src="/images/arjun/parliament-senate.webp"
-                  alt="Arjun visiting Parliament House"
+                  src="/images/arjun/host-portrait.jpg"
+                  alt="Arjun Vekariya"
                   fill
-                  className="object-cover object-[50%_32%] grayscale"
+                  className="object-cover object-[50%_18%] grayscale"
                   sizes="48px"
                 />
               </span>
-              <span>
-                <small className="block text-[10px] uppercase tracking-[0.18em] text-cream/40">
-                  Hosted by {site.host.name}
+              <span className="min-w-0">
+                <small className="flex items-center gap-2 text-[10px] uppercase tracking-[0.18em] text-cream/40">
+                  <span>Hosted by {site.host.name}</span>
+                  <span className="text-sm leading-none text-cream/55" aria-hidden="true">
+                    ↗
+                  </span>
                 </small>
-                <strong className="mt-1 block text-sm font-normal leading-6 text-cream/80">
+                <strong className="mt-2 block whitespace-pre-line text-sm font-normal leading-7 text-cream/80">
                   {site.host.short}
                 </strong>
               </span>
-              <span className="ml-auto text-xl text-cream/40" aria-hidden="true">
-                ↗
-              </span>
-            </Link>
+            </a>
           </div>
-          <figure className="relative min-h-[22rem] lg:min-h-full">
+          <figure className="relative min-h-[22rem] overflow-hidden bg-ink lg:min-h-full">
             <Image
               src="/images/podcast-studio.webp"
               alt="A black-and-white podcast microphone, headphones and interview studio"
               fill
               priority
               className="object-cover object-[70%_50%] grayscale"
-              sizes="(min-width: 1024px) 55vw, 100vw"
+              sizes="(min-width: 1024px) 45vw, 100vw"
             />
-            <div className="absolute inset-0 bg-gradient-to-r from-black via-black/20 to-transparent lg:via-transparent" />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent" />
-            <div className="absolute bottom-24 right-[7%] hidden w-40 overflow-hidden border-4 border-[#f5f5f2] shadow-2xl sm:block">
-              <div className="relative aspect-[4/5]">
-                <Image
-                  src="/images/arjun/parliament-visit.webp"
-                  alt="Arjun Vekariya during his Canberra visit"
-                  fill
-                  className="object-cover object-[50%_28%] grayscale"
-                  sizes="160px"
-                />
-              </div>
-              <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black to-transparent px-2 pb-2 pt-8 text-[9px] uppercase tracking-[0.16em]">
-                Arjun Vekariya
-                <br />
-                Your host
-              </span>
-            </div>
-            <figcaption className="absolute bottom-8 left-[8%] right-[8%] z-10 flex items-center gap-4 text-[10px] uppercase tracking-[0.2em] text-cream/80">
-              <Image
-                src="/images/brand/arjun-uvaach-symbol.webp"
-                alt=""
-                width={40}
-                height={40}
-              />
-              <span>
-                The story behind
-                <br />
-                the person.
-              </span>
-              <span className="sound-bars ml-auto" aria-hidden="true">
-                {[14, 25, 38, 18, 46, 30, 16, 35, 24].map((height, index) => (
-                  <i key={height + index} style={{ height, animationDelay: `${index * 0.11}s` }} />
-                ))}
-              </span>
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
+            <figcaption className="absolute bottom-6 left-6 right-6 text-[10px] uppercase tracking-[0.2em] text-cream/80">
+              {site.ticker.join(" · ")}
             </figcaption>
           </figure>
-        </div>
-        <div className="flex flex-wrap items-center gap-5 border-t border-white/10 px-6 py-5 text-[10px] uppercase tracking-[0.22em] text-cream/55 sm:px-12">
-          {site.ticker.map((item, index) => (
-            <span key={item} className="flex items-center gap-5">
-              {index > 0 ? <i className="h-1 w-1 rounded-full bg-cream/30" /> : null}
-              {item}
-            </span>
-          ))}
-          <Link href="/journey" className="ml-auto text-cream/80 hover:text-cream">
-            Slide into the story →
-          </Link>
-        </div>
+        </Container>
       </section>
 
-      {latest && latestPerson ? (
-        <section className="border-b border-white/10 py-20">
-          <Container>
-            <SectionHeading
-              eyebrow="Latest from the show"
-              title={
-                <>
-                  A conversation
-                  <br />
-                  worth having.
-                </>
-              }
-              body="Recorded episodes will live here. Until then, these pages hold the proposed conversations behind Arjun Uvaach — the people, the questions, the lesson worth passing on."
-            />
-            <ConversationCard conversation={latest} person={latestPerson} featured />
-            <div className="mt-6 grid gap-5 md:grid-cols-2">
-              {more.map((item) => {
-                const person = getPerson(item.guestId);
-                if (!person) return null;
-                return <ConversationCard key={item.slug} conversation={item} person={person} />;
-              })}
-            </div>
-            <div className="mt-10">
-              <Link href="/conversations" className="btn-ghost">
-                See all conversations →
-              </Link>
-            </div>
-          </Container>
-        </section>
-      ) : null}
-
-      <section className="border-b border-white/10 py-20">
+      <section id="journey" className="scroll-mt-20 border-b border-line py-12 sm:py-16">
         <Container>
-          <SectionHeading
-            eyebrow="02 · An atlas of people"
-            title={
-              <>
-                Touch a place.
-                <br />
-                Meet its <em className="not-italic text-cream/50">people.</em>
-              </>
-            }
-            body="Arjun’s selected voices from each state: Indian-Australian stories alongside wider Australian perspectives."
-          />
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {voices.map((person) => (
-              <PersonCard key={person.id} person={person} />
-            ))}
+          <JourneySection australia={australiaShapes} />
+        </Container>
+      </section>
+
+      <section id="atlas" className="scroll-mt-20 border-b border-line py-16 sm:py-20">
+        <Container>
+          <AtlasExplorer people={voices} missions={missions} australia={australiaShapes} />
+        </Container>
+      </section>
+
+      <section id="host" className="scroll-mt-20 border-b border-line py-16 sm:py-20">
+        <Container>
+          <p className="eyebrow">04 · The person behind the questions</p>
+          <div className="mt-4 grid gap-10 lg:grid-cols-[1.05fr_0.95fr]">
+            <div>
+              <h2 className="font-display text-4xl tracking-tight text-ink sm:text-5xl">
+                I’m Arjun. And I’m still <em className="not-italic text-muted">learning.</em>
+              </h2>
+              <div className="mt-8 space-y-5 text-sm leading-7 text-muted">
+                {site.host.story.map((paragraph) => (
+                  <p key={paragraph}>{paragraph}</p>
+                ))}
+              </div>
+              <p className="mt-6 text-sm text-muted">
+                {site.host.role} · {site.host.location}
+              </p>
+            </div>
+            <figure className="relative min-h-[24rem] overflow-hidden bg-paper-2">
+              <Image
+                src="/images/arjun/host-portrait.jpg"
+                alt="Arjun Vekariya at the Australia India Business Council anniversary"
+                fill
+                className="object-cover object-[50%_18%] grayscale"
+                sizes="(min-width: 1024px) 40vw, 100vw"
+              />
+            </figure>
           </div>
-          <div className="mt-10">
-            <Link href="/voices" className="btn-ghost">
-              Open the story atlas →
-            </Link>
+
+          <div className="mt-10 grid gap-3 sm:grid-cols-2">
+            <figure className="relative aspect-[4/3] overflow-hidden bg-paper-2">
+              <Image
+                src="/images/arjun/host-event-trio.jpg"
+                alt="Arjun Vekariya with guests at an Australia India anniversary event"
+                fill
+                className="object-cover object-[50%_30%] grayscale"
+                sizes="(min-width: 640px) 40vw, 100vw"
+              />
+            </figure>
+            <figure className="relative aspect-[4/3] overflow-hidden bg-paper-2">
+              <Image
+                src="/images/arjun/host-event-group.jpg"
+                alt="Arjun Vekariya with the gathering at the Australia India Address 2026"
+                fill
+                className="object-cover object-[50%_35%] grayscale"
+                sizes="(min-width: 640px) 40vw, 100vw"
+              />
+            </figure>
+          </div>
+
+          <div className="mt-14 border border-line bg-cream p-6 sm:p-8">
+            <p className="eyebrow">Suggest a voice</p>
+            <p className="mt-3 max-w-xl text-sm leading-7 text-muted">
+              Know someone whose story should be shared forward? Draft a short note for Arjun.
+            </p>
+            <div className="mt-6">
+              <SuggestForm />
+            </div>
           </div>
         </Container>
       </section>
 
-      <section className="py-20">
+      <section id="credits" className="scroll-mt-20 py-16 sm:py-20">
         <Container>
-          <div className="grid gap-10 border border-white/10 bg-ink-900 p-8 sm:p-12 lg:grid-cols-[1.1fr_0.9fr]">
-            <div>
-              <p className="eyebrow">04 · The person behind the questions</p>
-              <h2 className="mt-5 text-4xl leading-tight sm:text-5xl">
-                I’m Arjun.
-                <br />
-                And I’m still <em className="not-italic text-cream/50">learning.</em>
-              </h2>
-              <p className="mt-6 max-w-lg text-sm leading-7 text-muted">{site.host.story[0]}</p>
-              <Link href="/host" className="btn-ghost mt-8">
-                A little more of my story ↗
-              </Link>
-            </div>
-            <div className="relative min-h-80 overflow-hidden">
-              <Image
-                src="/images/arjun/parliament-visit.webp"
-                alt="Arjun during his visit to Parliament House, Canberra"
-                fill
-                className="object-cover object-[50%_25%] grayscale"
-                sizes="(min-width: 1024px) 40vw, 100vw"
-              />
-              <p className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black to-transparent px-4 py-4 text-[10px] uppercase tracking-[0.18em]">
-                Arjun Vekariya · a visit to Canberra
-              </p>
-            </div>
-          </div>
+          <p className="eyebrow">Sources & credits</p>
+          <h2 className="mt-4 font-display text-3xl tracking-tight text-ink sm:text-4xl">
+            The record behind the stories.
+          </h2>
+          <p className="mt-4 max-w-xl text-sm leading-7 text-muted">
+            Guest shortlist reviewed {directoryReviewed}. Roles come from named public sources. Public profiles do
+            not imply a podcast appearance or endorsement.
+          </p>
+          <h3 className="mt-10 text-sm font-medium uppercase tracking-[0.16em] text-ink">History</h3>
+          <ul className="mt-4 space-y-2 text-sm text-muted">
+            <li>
+              <a href={historySources.history} target="_blank" rel="noopener noreferrer" className="hover:text-ink">
+                Home Affairs — Indian migration history ↗
+              </a>
+            </li>
+            <li>
+              <a
+                href={historySources.population}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-ink"
+              >
+                Home Affairs — India-born population ↗
+              </a>
+            </li>
+            <li>
+              <a
+                href={historySources.restriction}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-ink"
+              >
+                National Museum — White Australia policy ↗
+              </a>
+            </li>
+            <li>
+              <a href={historySources.ending} target="_blank" rel="noopener noreferrer" className="hover:text-ink">
+                National Museum — end of the policy ↗
+              </a>
+            </li>
+          </ul>
+          <h3 className="mt-10 text-sm font-medium uppercase tracking-[0.16em] text-ink">People</h3>
+          <ul className="mt-4 columns-1 gap-x-8 space-y-2 text-sm text-muted sm:columns-2 lg:columns-3">
+            {sourced.map((person) => {
+              const source = person.sources?.[0];
+              if (!source) return null;
+              return (
+                <li key={person.id} className="break-inside-avoid">
+                  <a href={source.url} target="_blank" rel="noopener noreferrer" className="hover:text-ink">
+                    {person.name} ↗
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
         </Container>
       </section>
     </div>

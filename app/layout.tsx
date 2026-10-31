@@ -37,7 +37,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${dmSans.variable} ${playfair.variable} h-full antialiased`}
     >
-      <body className="flex min-h-full flex-col bg-black font-sans text-cream">
+      <body className="flex min-h-full flex-col bg-paper font-sans text-ink">
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />

@@ -14,6 +14,12 @@ export const historySources = {
   highCommission: "https://protocol.dfat.gov.au/Public/Missions/91",
 };
 
+export const journeyIntro =
+  "Long before airports and video calls, there were sea journeys, country roads and letters sent home.";
+
+export const historyFootnote =
+  "The surviving record is incomplete. We trace documented phases rather than claim one person as the first Indian migrant. Individual archival profiles, including Ellum Deen’s recollection of arriving in Melbourne in 1891, add names to that history.";
+
 export const eras = [
   {
     year: "1800–1860",

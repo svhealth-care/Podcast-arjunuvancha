@@ -17,7 +17,7 @@ export function Portrait({
   const initials = initialsFor(person.name);
 
   return (
-    <div className={`relative overflow-hidden bg-ink-800 ${className}`}>
+    <div className={`relative overflow-hidden bg-paper-2 ${className}`}>
       {src ? (
         <Image
           src={src}

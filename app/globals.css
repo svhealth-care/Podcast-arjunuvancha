@@ -1,14 +1,16 @@
 @import "tailwindcss";
 
 :root {
-  --black: #050505;
-  --ink: #0b0b0b;
-  --ink-800: #161616;
-  --ink-900: #111111;
-  --cream: #f3f1ea;
-  --muted: #9a9a94;
-  --gold: #c4a574;
-  --line: #2a2a2a;
+  --black: #0a0a0a;
+  --ink: #121212;
+  --ink-800: #1a1a1a;
+  --ink-900: #141414;
+  --paper: #f3f2ee;
+  --paper-2: #eae8e2;
+  --cream: #f7f6f2;
+  --muted: #6f6c66;
+  --line: #d4d0c7;
+  --gold: #9a8b74;
 }
 
 @theme inline {
@@ -16,22 +18,31 @@
   --color-ink: var(--ink);
   --color-ink-800: var(--ink-800);
   --color-ink-900: var(--ink-900);
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
   --color-cream: var(--cream);
   --color-muted: var(--muted);
-  --color-gold: var(--gold);
   --color-line: var(--line);
+  --color-gold: var(--gold);
   --font-sans: var(--font-dm-sans);
   --font-display: var(--font-playfair);
 }
 
 html {
-  background: var(--black);
-  color-scheme: dark;
+  background: var(--paper);
+  color-scheme: light;
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
 }
 
 body {
-  background: var(--black);
-  color: var(--cream);
+  background: var(--paper);
+  color: var(--ink);
   font-family: var(--font-sans), Arial, Helvetica, sans-serif;
 }
 
@@ -48,16 +59,51 @@ a {
 }
 
 ::selection {
-  background: var(--gold);
-  color: #111;
+  background: var(--ink);
+  color: var(--cream);
 }
 
 .eyebrow {
-  color: #b8b8b0;
+  color: var(--muted);
   font-size: 11px;
   font-weight: 500;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
+}
+
+.eyebrow-rule {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.eyebrow-rule::before {
+  content: "";
+  height: 1px;
+  width: 28px;
+  background: currentColor;
+}
+
+.round-button {
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border: 1px solid #bebebe;
+  border-radius: 9999px;
+  font-size: 17px;
+  transition:
+    background 0.2s,
+    transform 0.2s;
+}
+
+.round-button:hover:not(:disabled) {
+  background: #e1e1e1;
+  transform: translateX(1px);
+}
+
+.round-button:disabled {
+  opacity: 0.3;
 }
 
 .btn-primary,
@@ -68,58 +114,42 @@ a {
   border: 1px solid transparent;
   padding: 0.85rem 1.25rem;
   font-size: 11px;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   transition: 0.2s ease;
 }
 
 .btn-primary {
-  background: var(--cream);
-  color: #080808;
-}
-
-.btn-primary:hover {
-  background: #d8d4c8;
-}
-
-.btn-ghost {
-  border-color: #6f6f6a;
-  color: #d8d8d2;
-}
-
-.btn-ghost:hover {
-  border-color: var(--cream);
+  background: var(--ink);
   color: var(--cream);
 }
 
-.sound-bars {
-  display: flex;
+.btn-primary:hover {
+  background: #2a2a2a;
+}
+
+.btn-ghost {
+  border-color: var(--line);
+  color: var(--ink);
+}
+
+.btn-ghost:hover {
+  border-color: var(--ink);
+}
+
+.btn-on-dark {
+  display: inline-flex;
   align-items: center;
-  gap: 4px;
-  height: 46px;
+  gap: 0.7rem;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  padding: 0.75rem 1.1rem;
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--cream);
+  transition: 0.2s ease;
 }
 
-.sound-bars > i {
-  display: block;
-  width: 2px;
-  background: #bfbfbf;
-  transform-origin: center;
-  animation: voice-wave 1.4s ease-in-out infinite alternate;
-}
-
-@keyframes voice-wave {
-  from {
-    transform: scaleY(0.45);
-    opacity: 0.5;
-  }
-  to {
-    transform: scaleY(1);
-    opacity: 1;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .sound-bars > i {
-    animation: none;
-  }
+.btn-on-dark:hover {
+  border-color: var(--cream);
 }

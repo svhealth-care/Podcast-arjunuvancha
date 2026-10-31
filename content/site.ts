@@ -9,7 +9,8 @@ export const site = {
   youtubeLabel: "Watch on YouTube",
   host: {
     name: "Arjun Vekariya",
-    short: "A migrant. A café owner. A lot of questions.",
+    short:
+      "को हि भारः समर्थानां किं दूरं व्यवसायिनाम्।\nको विदेशः सविद्यानां कः परः प्रियवादिनाम्॥\nचाणक्य नीति (अध्याय 3, श्लोक 13)",
     location: "Perth · Western Australia",
     role: "Host, Arjun Uvaach · Owner, BARK Subiaco",
     arrived: "July 2022",
@@ -36,11 +37,10 @@ export const site = {
   badge: "Stories in motion",
   year: 2026,
   nav: [
-    { href: "/conversations", label: "Conversations" },
-    { href: "/voices", label: "The atlas" },
-    { href: "/public-life", label: "In public life" },
-    { href: "/journey", label: "Our journey" },
-    { href: "/host", label: "Meet Arjun" },
+    { href: "/#beginning", label: "The beginning" },
+    { href: "/#journey", label: "Our journey" },
+    { href: "/#atlas", label: "The atlas" },
+    { href: "/#host", label: "Meet Arjun" },
   ],
 } as const;
 

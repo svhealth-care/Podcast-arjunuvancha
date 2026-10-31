@@ -1,19 +1,24 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { useState } from "react";
+import { TwinFlags } from "@/components/flags";
 import { site } from "@/content/site";
 
-export function MobileNav() {
-  const pathname = usePathname();
+export function MobileNav({
+  active,
+  onNavigate,
+}: {
+  active?: string;
+  onNavigate?: (id: string) => void;
+}) {
   const [open, setOpen] = useState(false);
 
   return (
     <div className="lg:hidden">
       <button
         type="button"
-        className="flex h-10 w-10 items-center justify-center border border-white/15 text-cream"
+        className="flex h-10 w-10 items-center justify-center border border-white/25 text-cream"
         aria-expanded={open}
         aria-label={open ? "Close navigation" : "Open navigation"}
         onClick={() => setOpen((value) => !value)}
@@ -26,21 +31,28 @@ export function MobileNav() {
       </button>
       {open ? (
         <div className="absolute inset-x-0 top-full border-b border-white/10 bg-black px-5 py-6">
-          <nav className="flex flex-col gap-4 text-sm uppercase tracking-[0.18em] text-cream/70">
+          <nav className="flex flex-col gap-4 text-sm uppercase tracking-[0.16em] text-cream/60">
             {site.nav.map((item) => {
-              const active = pathname === item.href || pathname.startsWith(`${item.href}/`);
+              const id = item.href.replace("/#", "");
+              const isActive = active === id;
               return (
                 <Link
                   key={item.href}
                   href={item.href}
-                  aria-current={active ? "page" : undefined}
-                  onClick={() => setOpen(false)}
-                  className={active ? "text-cream" : "hover:text-cream"}
+                  aria-current={isActive ? "page" : undefined}
+                  onClick={() => {
+                    onNavigate?.(id);
+                    setOpen(false);
+                  }}
+                  className={isActive ? "text-cream" : "hover:text-cream"}
                 >
                   {item.label}
                 </Link>
               );
             })}
+            <div className="pt-2">
+              <TwinFlags />
+            </div>
             <a
               href={site.youtube}
               target="_blank"
@@ -48,7 +60,7 @@ export function MobileNav() {
               className="pt-2 text-cream"
               onClick={() => setOpen(false)}
             >
-              Listen ↗
+              YouTube ↗
             </a>
           </nav>
         </div>
