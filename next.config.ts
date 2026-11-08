@@ -10,14 +10,11 @@ const nextConfig: NextConfig = {
   allowedDevOrigins: ["airo.dev", "*.airo.dev", "**.airo.dev"],
   // Keep compilation tracing rooted in this app (avoids scanning `/`).
   outputFileTracingRoot: projectRoot,
+  // Do not attach @tailwindcss/turbopack here. That loader spawns a
+  // process and binds a port, which GoDaddy's sandbox rejects (os error 13).
+  // Tailwind is compiled through PostCSS instead, under webpack.
   turbopack: {
     root: projectRoot,
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
-      },
-    },
   },
   webpack: (config, { dev }) => {
     // Ensure webpack resolves and watches only within this project.
