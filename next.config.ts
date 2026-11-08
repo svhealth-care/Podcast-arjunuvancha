@@ -1,15 +1,43 @@
 import type { NextConfig } from "next";
+import path from "path";
+
+const projectRoot = path.resolve(process.cwd());
 
 const nextConfig: NextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
+  // Allow Airo preview hosts to load Next.js HMR /dev assets.
+  allowedDevOrigins: ["airo.dev", "*.airo.dev", "**.airo.dev"],
+  // Keep compilation tracing rooted in this app (avoids scanning `/`).
+  outputFileTracingRoot: projectRoot,
   turbopack: {
+    root: projectRoot,
     rules: {
       "*.css": {
         loaders: ["@tailwindcss/turbopack"],
         as: "*.css",
       },
     },
+  },
+  webpack: (config, { dev }) => {
+    // Ensure webpack resolves and watches only within this project.
+    config.context = projectRoot;
+
+    if (dev) {
+      config.watchOptions = {
+        ...config.watchOptions,
+        followSymlinks: false,
+        ignored: [
+          "**/node_modules/**",
+          "**/.git/**",
+          "**/.next/**",
+          "**/dist/**",
+          "**/coverage/**",
+        ],
+      };
+    }
+
+    return config;
   },
   async redirects() {
     return [
